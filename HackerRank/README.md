@@ -23,6 +23,6 @@
 [14]: https://www.hackerrank.com/challenges/diagonal-difference/problem
 [15]: ./Easy/DiagonalDifference/solution.py
 [dayoftheprogrammer1]: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
-[dayoftheprgrammer2]: ./Easy/DayOfTheProgrammer/solution.js
+[dayoftheprogrammer2]: ./Easy/DayOfTheProgrammer/solution.js
 [sequenceequation1]: https://www.hackerrank.com/challenges/permutation-equation/problem
 [sequenceequation2]: ./Easy/SequenceEquation/solution.py
