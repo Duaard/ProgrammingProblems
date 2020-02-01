@@ -2,17 +2,18 @@
 
 ## Easy
 
-| Problem                                      | My Solution                        | What I learned | Domain     | Sub-Domain     | Date Solved |
-| -------------------------------------------- | ---------------------------------- | -------------- | ---------- | -------------- | ----------- |
-| [Solve Me First][1]                          | [solution.py][2]                   |                | Algorithms | Warmup         | 08/28/2019  |
-| [Simple Array Sum][4]                        | [solution.py][5]                   |                | Algorithms | Warmup         | 08/28/2019  |
-| [Compare The Triplets][7]                    | [solution.py][8]                   |                | Algorithms | Warmup         | 08/28/2019  |
-| [A Very Big Sum][10]                         | [solution.py][11]                  |                | Alogrithms | Warmup         | 08/29/2019  |
-| [Diagonal Difference][14]                    | [solution.py][15]                  |                | Algorithms | Warmup         | 08/30/2019  |
-| [Plus Minus][17]                             | [solution.py][18]                  |                | Algorithms | Warmup         | 08/31/2019  |
-| [Staircase][20]                              | [solution.py][21]                  |                | Algorithms | Warmup         | 08/31/2019  |
-| [Day of the Programmer][dayoftheprogrammer1] | [solution.js][dayoftheprogrammer2] |                | Algorithms | Implementation | 01/08/2020  |
-| [Sequence Equation][sequenceequation1]       | [solution.py][sequenceequation2]   |                | Algorithms | Implementation | 01/31/2020  |
+| Problem                                                 | My Solution                        | What I learned | Domain     | Sub-Domain     | Date Solved |
+| ------------------------------------------------------- | ---------------------------------- | -------------- | ---------- | -------------- | ----------- |
+| [Solve Me First][1]                                     | [solution.py][2]                   |                | Algorithms | Warmup         | 08/28/2019  |
+| [Simple Array Sum][4]                                   | [solution.py][5]                   |                | Algorithms | Warmup         | 08/28/2019  |
+| [Compare The Triplets][7]                               | [solution.py][8]                   |                | Algorithms | Warmup         | 08/28/2019  |
+| [A Very Big Sum][10]                                    | [solution.py][11]                  |                | Alogrithms | Warmup         | 08/29/2019  |
+| [Diagonal Difference][14]                               | [solution.py][15]                  |                | Algorithms | Warmup         | 08/30/2019  |
+| [Plus Minus][17]                                        | [solution.py][18]                  |                | Algorithms | Warmup         | 08/31/2019  |
+| [Staircase][20]                                         | [solution.py][21]                  |                | Algorithms | Warmup         | 08/31/2019  |
+| [Day of the Programmer][dayoftheprogrammer1]            | [solution.js][dayoftheprogrammer2] |                | Algorithms | Implementation | 01/08/2020  |
+| [Sequence Equation][sequenceequation1]                  | [solution.py][sequenceequation2]   |                | Algorithms | Implementation | 01/31/2020  |
+| [Jumping on the Clouds: Revisited][jumpingontheclouds1] | [solution.py][jumpingontheclouds2] |                | Algorithms | Implementation | 02/01/2020  |
 
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
@@ -32,3 +33,5 @@
 [dayoftheprogrammer2]: ./Easy/DayOfTheProgrammer/solution.js
 [sequenceequation1]: https://www.hackerrank.com/challenges/permutation-equation/problem
 [sequenceequation2]: ./Easy/SequenceEquation/solution.py
+[jumpingontheclouds1]: https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
+[jumpingontheclouds2]: /Easy/JumpingOnTheCloudsRevisited/solution.py
