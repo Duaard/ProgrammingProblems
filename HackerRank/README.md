@@ -9,6 +9,8 @@
 | [Compare The Triplets][7]                    | [solution.py][8]                   |                | Algorithms | Warmup         | 08/28/2019  |
 | [A Very Big Sum][10]                         | [solution.py][11]                  |                | Alogrithms | Warmup         | 08/29/2019  |
 | [Diagonal Difference][14]                    | [solution.py][15]                  |                | Algorithms | Warmup         | 08/30/2019  |
+| [Plus Minus][17]                             | [solution.py][18]                  |                | Algorithms | Warmup         | 08/31/2019  |
+| [Staircase][20]                              | [solution.py][21]                  |                | Algorithms | Warmup         | 08/31/2019  |
 | [Day of the Programmer][dayoftheprogrammer1] | [solution.js][dayoftheprogrammer2] |                | Algorithms | Implementation | 01/08/2020  |
 | [Sequence Equation][sequenceequation1]       | [solution.py][sequenceequation2]   |                | Algorithms | Implementation | 01/31/2020  |
 
@@ -22,6 +24,10 @@
 [11]: ./Easy/AVeryBigSum/solution.py
 [14]: https://www.hackerrank.com/challenges/diagonal-difference/problem
 [15]: ./Easy/DiagonalDifference/solution.py
+[17]: https://www.hackerrank.com/challenges/plus-minus/problem
+[18]: ./Easy/PlusMinus/solution.py
+[20]: https://www.hackerrank.com/challenges/staircase/problem
+[21]: ./Easy/Staircase/solution.py
 [dayoftheprogrammer1]: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
 [dayoftheprogrammer2]: ./Easy/DayOfTheProgrammer/solution.js
 [sequenceequation1]: https://www.hackerrank.com/challenges/permutation-equation/problem
