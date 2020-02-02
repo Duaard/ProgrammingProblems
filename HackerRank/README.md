@@ -11,9 +11,12 @@
 | [Diagonal Difference][14]                               | [solution.py][15]                  |                | Algorithms | Warmup         | 08/30/2019  |
 | [Plus Minus][17]                                        | [solution.py][18]                  |                | Algorithms | Warmup         | 08/31/2019  |
 | [Staircase][20]                                         | [solution.py][21]                  |                | Algorithms | Warmup         | 08/31/2019  |
+| [Mini-Max Sum][23]                                      | [solution.py][24]                  |                | Algorithms | Warmup         | 09/01/2019  |
+| [Birthday Cake Candles][26]                             | [solution.py][27]                  |                | Algorithms | Warmup         | 09/01/2019  |
 | [Day of the Programmer][dayoftheprogrammer1]            | [solution.js][dayoftheprogrammer2] |                | Algorithms | Implementation | 01/08/2020  |
 | [Sequence Equation][sequenceequation1]                  | [solution.py][sequenceequation2]   |                | Algorithms | Implementation | 01/31/2020  |
 | [Jumping on the Clouds: Revisited][jumpingontheclouds1] | [solution.py][jumpingontheclouds2] |                | Algorithms | Implementation | 02/01/2020  |
+| [Find Digits][finddigits1]                              | [solution.py][finddigits2]         |                | Algorithms | Implementation | 02/02/2020  |
 
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
@@ -29,9 +32,15 @@
 [18]: ./Easy/PlusMinus/solution.py
 [20]: https://www.hackerrank.com/challenges/staircase/problem
 [21]: ./Easy/Staircase/solution.py
+[23]: https://www.hackerrank.com/challenges/mini-max-sum/problem
+[24]: ./Easy/MiniMaxSum/solution.py
+[26]: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+[27]: ./Easy/BirthdayCakeCandles/solution.py
 [dayoftheprogrammer1]: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
 [dayoftheprogrammer2]: ./Easy/DayOfTheProgrammer/solution.js
 [sequenceequation1]: https://www.hackerrank.com/challenges/permutation-equation/problem
 [sequenceequation2]: ./Easy/SequenceEquation/solution.py
 [jumpingontheclouds1]: https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
-[jumpingontheclouds2]: /Easy/JumpingOnTheCloudsRevisited/solution.py
+[jumpingontheclouds2]: ./Easy/JumpingOnTheCloudsRevisited/solution.py
+[finddigits1]: https://www.hackerrank.com/challenges/find-digits/problem
+[finddigits2]: ./Easy/FindDigits/solution.py
