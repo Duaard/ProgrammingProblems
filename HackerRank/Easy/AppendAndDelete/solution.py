@@ -16,7 +16,7 @@ def appendAndDelete(s, t, k):
         if s[i] == t[i]:
             equal_substring += 1
         else:
-            break;
+            break
     # Disregard unequal characters
     k -= len(s) - equal_substring
 

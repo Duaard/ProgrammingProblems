@@ -15,6 +15,8 @@
 | [Birthday Cake Candles][26]                             | [solution.py][27]                  |                | Algorithms | Warmup         | 09/01/2019  |
 | [Time Conversion][29]                                   | [solution.py][30]                  |                | Algorithms | Warmup         | 09/01/2019  |
 | [Grading Students][32]                                  | [solution.py][33]                  |                | Algorithms | Implementation | 09/01/2019  |
+| [Apple and Orange][35]                                  | [solution.py][36]                  |                | Algorithms | Implementation | 09/01/2019  |
+| [Kangaroo][38]                                          | [solution.py][39]                  |                | Algorithms | Implementation | 09/01/2019  |
 | [Day of the Programmer][dayoftheprogrammer1]            | [solution.js][dayoftheprogrammer2] |                | Algorithms | Implementation | 01/08/2020  |
 | [Sequence Equation][sequenceequation1]                  | [solution.py][sequenceequation2]   |                | Algorithms | Implementation | 01/31/2020  |
 | [Jumping on the Clouds: Revisited][jumpingontheclouds1] | [solution.py][jumpingontheclouds2] |                | Algorithms | Implementation | 02/01/2020  |
@@ -43,6 +45,10 @@
 [30]: ./Easy/TimeConversion/solution.py
 [32]: https://www.hackerrank.com/challenges/grading/problem
 [33]: ./Easy/GradingStudents/solution.py
+[35]: https://www.hackerrank.com/challenges/apple-and-orange/problem
+[36]: ./Easy/AppleAndOrange/solution.py
+[38]: https://www.hackerrank.com/challenges/kangaroo/problem
+[39]: ./Easy/Kangaroo/solution.py
 [dayoftheprogrammer1]: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
 [dayoftheprogrammer2]: ./Easy/DayOfTheProgrammer/solution.js
 [sequenceequation1]: https://www.hackerrank.com/challenges/permutation-equation/problem
