@@ -17,6 +17,8 @@
 | [Grading Students][32]                                  | [solution.py][33]                  |                | Algorithms | Implementation | 09/01/2019  |
 | [Apple and Orange][35]                                  | [solution.py][36]                  |                | Algorithms | Implementation | 09/01/2019  |
 | [Kangaroo][38]                                          | [solution.py][39]                  |                | Algorithms | Implementation | 09/01/2019  |
+| [Between Two Sets][41]                                  | [solution.py][42]                  |                | Algorithms | Implementation | 09/01/2019  |
+| [Breaking the Records][44]                              | [solution.py][45]                  |                | Algorithms | Implementation | 09/01/2019  |
 | [Day of the Programmer][dayoftheprogrammer1]            | [solution.js][dayoftheprogrammer2] |                | Algorithms | Implementation | 01/08/2020  |
 | [Sequence Equation][sequenceequation1]                  | [solution.py][sequenceequation2]   |                | Algorithms | Implementation | 01/31/2020  |
 | [Jumping on the Clouds: Revisited][jumpingontheclouds1] | [solution.py][jumpingontheclouds2] |                | Algorithms | Implementation | 02/01/2020  |
@@ -50,6 +52,10 @@
 [36]: ./Easy/AppleAndOrange/solution.py
 [38]: https://www.hackerrank.com/challenges/kangaroo/problem
 [39]: ./Easy/Kangaroo/solution.py
+[41]: https://www.hackerrank.com/challenges/between-two-sets/problem
+[42]: ./Easy/BetweenTwoSets/solution.py
+[44]: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+[45]: ./Easy/BreakingTheRecords/solution.py
 [dayoftheprogrammer1]: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
 [dayoftheprogrammer2]: ./Easy/DayOfTheProgrammer/solution.js
 [sequenceequation1]: https://www.hackerrank.com/challenges/permutation-equation/problem
