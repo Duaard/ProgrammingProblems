@@ -25,6 +25,7 @@
 | [Find Digits][finddigits1]                              | [solution.py][finddigits2]         |                | Algorithms | Implementation | 02/02/2020  |
 | [Append and Delete][appendanddelete1]                   | [solution.py][appendanddelete2]    |                | Algorithms | Implementation | 02/03/2020  |
 | [Sherlock and Squares][sherlockandsquares1]             | [solution.py][sherlockandsquares2] |                | Algorithm  | Implementatoin | 02/04/2020  |
+| [Library Fine][libraryfine1]                            | [solution.py][libraryfine2]        |                | Algorithms | Implementation | 02/06/2020  |
 
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
@@ -68,3 +69,5 @@
 [appendanddelete2]: ./Easy/AppendAndDelete/solution.py
 [sherlockandsquares1]: https://www.hackerrank.com/challenges/sherlock-and-squares/problem
 [sherlockandsquares2]: ./Easy/SherlockAndSquares/solution.py
+[libraryfine1]: https://www.hackerrank.com/challenges/library-fine/problem
+[libraryfine2]: ./Easy/LibraryFine/solution.py
