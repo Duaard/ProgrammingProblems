@@ -22,6 +22,7 @@
 | [Jumping on the Clouds: Revisited][jumpingontheclouds1] | [solution.py][jumpingontheclouds2] |                | Algorithms | Implementation | 02/01/2020  |
 | [Find Digits][finddigits1]                              | [solution.py][finddigits2]         |                | Algorithms | Implementation | 02/02/2020  |
 | [Append and Delete][appendanddelete1]                   | [solution.py][appendanddelete2]    |                | Algorithms | Implementation | 02/03/2020  |
+| [Sherlock and Squares][sherlockandsquares1]             | [solution.py][sherlockandsquares2] |                | Algorithm  | Implementatoin | 02/04/2020  |
 
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
@@ -59,3 +60,5 @@
 [finddigits2]: ./Easy/FindDigits/solution.py
 [appendanddelete1]: https://www.hackerrank.com/challenges/append-and-delete/problem
 [appendanddelete2]: ./Easy/AppendAndDelete/solution.py
+[sherlockandsquares1]: https://www.hackerrank.com/challenges/sherlock-and-squares/problem
+[sherlockandsquares2]: ./Easy/SherlockAndSquares/solution.py
