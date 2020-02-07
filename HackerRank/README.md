@@ -28,6 +28,7 @@
 | [Append and Delete][appendanddelete1]                   | [solution.py][appendanddelete2]    |                | Algorithms | Implementation | 02/03/2020  |
 | [Sherlock and Squares][sherlockandsquares1]             | [solution.py][sherlockandsquares2] |                | Algorithm  | Implementatoin | 02/04/2020  |
 | [Library Fine][libraryfine1]                            | [solution.py][libraryfine2]        |                | Algorithms | Implementation | 02/06/2020  |
+| [Cut the Sticks][cutthesticks1]                         | [solution.py][cutthesticks2]       |                | Algorithms | Implementation | 02/07/2020  |
 
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
@@ -77,3 +78,5 @@
 [sherlockandsquares2]: ./Easy/SherlockAndSquares/solution.py
 [libraryfine1]: https://www.hackerrank.com/challenges/library-fine/problem
 [libraryfine2]: ./Easy/LibraryFine/solution.py
+[cutthesticks1]: https://www.hackerrank.com/challenges/cut-the-sticks/problem
+[cutthesticks2]: ./Easy/CutTheSticks/solution.py
