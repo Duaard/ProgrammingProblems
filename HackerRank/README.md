@@ -19,6 +19,8 @@
 | [Kangaroo][38]                                          | [solution.py][39]                  |                | Algorithms | Implementation | 09/01/2019  |
 | [Between Two Sets][41]                                  | [solution.py][42]                  |                | Algorithms | Implementation | 09/01/2019  |
 | [Breaking the Records][44]                              | [solution.py][45]                  |                | Algorithms | Implementation | 09/01/2019  |
+| [Birthday Chocolate][47]                                | [solution.py][48]                  |                | Algorithms | Implementation | 09/01/2019  |
+| [Divisible Sum Pairs][50]                               | [solution.py][51]                  |                | Algorithms | Implementation | 09/01/2019  |
 | [Day of the Programmer][dayoftheprogrammer1]            | [solution.js][dayoftheprogrammer2] |                | Algorithms | Implementation | 01/08/2020  |
 | [Sequence Equation][sequenceequation1]                  | [solution.py][sequenceequation2]   |                | Algorithms | Implementation | 01/31/2020  |
 | [Jumping on the Clouds: Revisited][jumpingontheclouds1] | [solution.py][jumpingontheclouds2] |                | Algorithms | Implementation | 02/01/2020  |
@@ -57,6 +59,10 @@
 [42]: ./Easy/BetweenTwoSets/solution.py
 [44]: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
 [45]: ./Easy/BreakingTheRecords/solution.py
+[47]: https://www.hackerrank.com/challenges/the-birthday-bar/problem
+[48]: ./Easy/BirthdayChocolate/solution.py
+[50]: https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+[51]: ./Easy/DivisibleSumPairs/solution.py
 [dayoftheprogrammer1]: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
 [dayoftheprogrammer2]: ./Easy/DayOfTheProgrammer/solution.js
 [sequenceequation1]: https://www.hackerrank.com/challenges/permutation-equation/problem
