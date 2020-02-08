@@ -21,7 +21,9 @@
 | [Breaking the Records][44]                              | [solution.py][45]                  |                | Algorithms | Implementation | 09/01/2019  |
 | [Birthday Chocolate][47]                                | [solution.py][48]                  |                | Algorithms | Implementation | 09/01/2019  |
 | [Divisible Sum Pairs][50]                               | [solution.py][51]                  |                | Algorithms | Implementation | 09/01/2019  |
+| [Migratory Birds][53]                                   | [solution.py][54]                  |                | Algorithms | Implementation | 09/01/2019  |
 | [Day of the Programmer][dayoftheprogrammer1]            | [solution.js][dayoftheprogrammer2] |                | Algorithms | Implementation | 01/08/2020  |
+| [Bon Appetit][bonappetit1]                              | [solution.js][bonappetit2]         |                | Algorithms | Implementation | 01/08/2020  |
 | [Sequence Equation][sequenceequation1]                  | [solution.py][sequenceequation2]   |                | Algorithms | Implementation | 01/31/2020  |
 | [Jumping on the Clouds: Revisited][jumpingontheclouds1] | [solution.py][jumpingontheclouds2] |                | Algorithms | Implementation | 02/01/2020  |
 | [Find Digits][finddigits1]                              | [solution.py][finddigits2]         |                | Algorithms | Implementation | 02/02/2020  |
@@ -64,8 +66,12 @@
 [48]: ./Easy/BirthdayChocolate/solution.py
 [50]: https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
 [51]: ./Easy/DivisibleSumPairs/solution.py
+[53]: https://www.hackerrank.com/challenges/migratory-birds/problem
+[54]: ./Easy/MigratoryBirds/solution.py
 [dayoftheprogrammer1]: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
 [dayoftheprogrammer2]: ./Easy/DayOfTheProgrammer/solution.js
+[bonappetit1]: https://www.hackerrank.com/challenges/bon-appetit/problem
+[bonappetit2]: ./Easy/BonAppetit/solution.js
 [sequenceequation1]: https://www.hackerrank.com/challenges/permutation-equation/problem
 [sequenceequation2]: ./Easy/SequenceEquation/solution.py
 [jumpingontheclouds1]: https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
