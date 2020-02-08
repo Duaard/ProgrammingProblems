@@ -32,6 +32,12 @@
 | [Library Fine][libraryfine1]                            | [solution.py][libraryfine2]        |                | Algorithms | Implementation | 02/06/2020  |
 | [Cut the Sticks][cutthesticks1]                         | [solution.py][cutthesticks2]       |                | Algorithms | Implementation | 02/07/2020  |
 
+## Medium
+
+| Problem                                       | My Solution                         | What I learned | Domain     | Sub-Domain     | Date Solved |
+| --------------------------------------------- | ----------------------------------- | -------------- | ---------- | -------------- | ----------- |
+| [Extra Long Factorials][extralongfactorials1] | [solution.py][extralongfactorials2] |                | Algorithms | Implementation | 02/08/2020  |
+
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
 [4]: https://www.hackerrank.com/challenges/simple-array-sum/problem
@@ -86,3 +92,5 @@
 [libraryfine2]: ./Easy/LibraryFine/solution.py
 [cutthesticks1]: https://www.hackerrank.com/challenges/cut-the-sticks/problem
 [cutthesticks2]: ./Easy/CutTheSticks/solution.py
+[extralongfactorials1]: https://www.hackerrank.com/challenges/extra-long-factorials/problem
+[extralongfactorials2]: ./Medium/ExtraLongFactorials/solution.py
