@@ -24,6 +24,8 @@
 | [Migratory Birds][53]                                   | [solution.py][54]                  |                | Algorithms | Implementation | 09/01/2019  |
 | [Day of the Programmer][dayoftheprogrammer1]            | [solution.js][dayoftheprogrammer2] |                | Algorithms | Implementation | 01/08/2020  |
 | [Bon Appetit][bonappetit1]                              | [solution.js][bonappetit2]         |                | Algorithms | Implementation | 01/08/2020  |
+| [Sock Merchant][sockmerchant1]                          | [solution.js][sockmerchant2]       |                | Algorithms | Implementation | 01/09/2020  |
+| [Drawing Book][drawingbook1]                            | [solution.js][drawingbook2]        |                | Algorithms | Implementation | 01/10/2020  |
 | [Sequence Equation][sequenceequation1]                  | [solution.py][sequenceequation2]   |                | Algorithms | Implementation | 01/31/2020  |
 | [Jumping on the Clouds: Revisited][jumpingontheclouds1] | [solution.py][jumpingontheclouds2] |                | Algorithms | Implementation | 02/01/2020  |
 | [Find Digits][finddigits1]                              | [solution.py][finddigits2]         |                | Algorithms | Implementation | 02/02/2020  |
@@ -78,6 +80,10 @@
 [dayoftheprogrammer2]: ./Easy/DayOfTheProgrammer/solution.js
 [bonappetit1]: https://www.hackerrank.com/challenges/bon-appetit/problem
 [bonappetit2]: ./Easy/BonAppetit/solution.js
+[sockmerchant1]: https://www.hackerrank.com/challenges/sock-merchant/problem
+[sockmerchant2]: ./Easy/SockMerchant/solution.js
+[drawingbook1]: https://www.hackerrank.com/challenges/drawing-book/problem
+[drawingbook2]: ./Easy/DrawingBook/solution.js
 [sequenceequation1]: https://www.hackerrank.com/challenges/permutation-equation/problem
 [sequenceequation2]: ./Easy/SequenceEquation/solution.py
 [jumpingontheclouds1]: https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
