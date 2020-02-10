@@ -33,6 +33,7 @@
 | [Sherlock and Squares][sherlockandsquares1]             | [solution.py][sherlockandsquares2] |                | Algorithm  | Implementatoin | 02/04/2020  |
 | [Library Fine][libraryfine1]                            | [solution.py][libraryfine2]        |                | Algorithms | Implementation | 02/06/2020  |
 | [Cut the Sticks][cutthesticks1]                         | [solution.py][cutthesticks2]       |                | Algorithms | Implementation | 02/07/2020  |
+| [Repeated String][repeatedstring1]                      | [solution.py][repeatedstring2]     |                | Algorithms | Implementation | 02/10/2020  |
 
 ## Medium
 
@@ -100,3 +101,5 @@
 [cutthesticks2]: ./Easy/CutTheSticks/solution.py
 [extralongfactorials1]: https://www.hackerrank.com/challenges/extra-long-factorials/problem
 [extralongfactorials2]: ./Medium/ExtraLongFactorials/solution.py
+[repeatedstring1]: https://www.hackerrank.com/challenges/repeated-string/problem
+[repeatedstring2]: ./Easy/RepeatedString/solution.py
