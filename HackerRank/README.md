@@ -26,6 +26,8 @@
 | [Bon Appetit][bonappetit1]                              | [solution.js][bonappetit2]         |                | Algorithms | Implementation | 01/08/2020  |
 | [Sock Merchant][sockmerchant1]                          | [solution.js][sockmerchant2]       |                | Algorithms | Implementation | 01/09/2020  |
 | [Drawing Book][drawingbook1]                            | [solution.js][drawingbook2]        |                | Algorithms | Implementation | 01/10/2020  |
+| [Counting Valleys][countingvalleys1]                    | [solution.js][countingvalleys1]    |                | Algorithms | Implementation | 01/11/2020  |
+| [Electronics Shop][electronicsshop1]                    | [solution.js][electronicsshop2]    |                | Algorithms | Implementation | 01/12/2020  |
 | [Sequence Equation][sequenceequation1]                  | [solution.py][sequenceequation2]   |                | Algorithms | Implementation | 01/31/2020  |
 | [Jumping on the Clouds: Revisited][jumpingontheclouds1] | [solution.py][jumpingontheclouds2] |                | Algorithms | Implementation | 02/01/2020  |
 | [Find Digits][finddigits1]                              | [solution.py][finddigits2]         |                | Algorithms | Implementation | 02/02/2020  |
@@ -85,6 +87,10 @@
 [sockmerchant2]: ./Easy/SockMerchant/solution.js
 [drawingbook1]: https://www.hackerrank.com/challenges/drawing-book/problem
 [drawingbook2]: ./Easy/DrawingBook/solution.js
+[countingvalleys1]: https://www.hackerrank.com/challenges/counting-valleys/problem
+[countingvalleys2]: ./Easy/CountingValleys/solution.js
+[electronicsshop1]: https://www.hackerrank.com/challenges/electronics-shop/problem
+[electronicsshop2]: ./Easy/ElectronicsShop/solution.js
 [sequenceequation1]: https://www.hackerrank.com/challenges/permutation-equation/problem
 [sequenceequation2]: ./Easy/SequenceEquation/solution.py
 [jumpingontheclouds1]: https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
