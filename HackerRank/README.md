@@ -36,6 +36,7 @@
 | [Library Fine][libraryfine1]                            | [solution.py][libraryfine2]        |                | Algorithms | Implementation | 02/06/2020  |
 | [Cut the Sticks][cutthesticks1]                         | [solution.py][cutthesticks2]       |                | Algorithms | Implementation | 02/07/2020  |
 | [Repeated String][repeatedstring1]                      | [solution.py][repeatedstring2]     |                | Algorithms | Implementation | 02/10/2020  |
+| [Jumping on the Clouds][jumpontheclouds1]               | [solution.py][jumpontheclouds2]    |                | Algorithms | Implementation | 02/11/2020  |
 
 ## Medium
 
@@ -109,3 +110,5 @@
 [extralongfactorials2]: ./Medium/ExtraLongFactorials/solution.py
 [repeatedstring1]: https://www.hackerrank.com/challenges/repeated-string/problem
 [repeatedstring2]: ./Easy/RepeatedString/solution.py
+[jumpontheclouds1]: https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
+[jumpontheclouds2]: ./Easy/JumpingOnTheClouds/solution.py
