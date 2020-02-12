@@ -39,6 +39,7 @@
 | [Cut the Sticks][cutthesticks1]                         | [solution.py][cutthesticks2]       |                | Algorithms | Implementation | 02/07/2020  |
 | [Repeated String][repeatedstring1]                      | [solution.py][repeatedstring2]     |                | Algorithms | Implementation | 02/10/2020  |
 | [Jumping on the Clouds][jumpontheclouds1]               | [solution.py][jumpontheclouds2]    |                | Algorithms | Implementation | 02/11/2020  |
+| [Equalize the Array][equalizethearray1]                 | [solution.py][equalizethearray2]   |                | Algorithms | Implementation | 02/12/2020  |
 
 ## Medium
 
@@ -118,3 +119,5 @@
 [repeatedstring2]: ./Easy/RepeatedString/solution.py
 [jumpontheclouds1]: https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
 [jumpontheclouds2]: ./Easy/JumpingOnTheClouds/solution.py
+[equalizethearray1]: https://www.hackerrank.com/challenges/equality-in-a-array/problem
+[equalizethearray2]: ./Easy/EqualizeTheAray/solution.py
