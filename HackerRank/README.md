@@ -43,6 +43,7 @@
 | [Repeated String][repeatedstring1]                      | [solution.py][repeatedstring2]     |                | Algorithms  | Implementation | 02/10/2020  |
 | [Jumping on the Clouds][jumpontheclouds1]               | [solution.py][jumpontheclouds2]    |                | Algorithms  | Implementation | 02/11/2020  |
 | [Equalize the Array][equalizethearray1]                 | [solution.py][equalizethearray2]   |                | Algorithms  | Implementation | 02/12/2020  |
+| [ACM ICPC Team][acmicpcteam1]                           | [solution.py][acmicpcteam2]        |                | Algorithims | Implementation | 02/13/2020  |
 
 ## Medium
 
@@ -130,3 +131,5 @@
 [jumpontheclouds2]: ./Easy/JumpingOnTheClouds/solution.py
 [equalizethearray1]: https://www.hackerrank.com/challenges/equality-in-a-array/problem
 [equalizethearray2]: ./Easy/EqualizeTheAray/solution.py
+[acmicpcteam1]: https://www.hackerrank.com/challenges/acm-icpc-team/problem
+[acmicpcteam2]: ./Easy/ACMICPCTeam/solution.py
