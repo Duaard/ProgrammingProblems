@@ -32,7 +32,9 @@
 | [Picking Numbers][pickingnumbers1]                      | [solution.js][pickingnumbers2]     |                | Algorithms  | Implementation | 01/14/2020  |
 | [The Hurdle Race][thehurdlerace1]                       | [solution.js][thehurdlerace2]      |                | Algorithms  | Implementation | 01/15/2020  |
 | [Designer PDF Viewer][pdfviewer1]                       | [solution.js][pdfviewer2]          |                | Algorithms  | Implementation | 01/16/2020  |
-| [Utopian Tree][utopiantree1]                            | [solution.js][utopiantree2]        |                | Algoritihms | Implementation | 01/17/2020  |
+| [Utopian Tree][utopiantree1]                            | [solution.js][utopiantree2]        |                | Algorithms  | Implementation | 01/17/2020  |
+| [Angry Professor][angryprofessor1]                      | [solution.js][angryprofessor2]     |                | Algorithms  | Implementation | 01/18/2020  |
+| [Beatiful Days at the Movies][beatifuldays1]            | [solution.js][beatifuldays2]       |                | Algorithms  | Implementation | 01/19/2020  |
 | [Sequence Equation][sequenceequation1]                  | [solution.py][sequenceequation2]   |                | Algorithms  | Implementation | 01/31/2020  |
 | [Jumping on the Clouds: Revisited][jumpingontheclouds1] | [solution.py][jumpingontheclouds2] |                | Algorithms  | Implementation | 02/01/2020  |
 | [Find Digits][finddigits1]                              | [solution.py][finddigits2]         |                | Algorithms  | Implementation | 02/02/2020  |
@@ -109,6 +111,10 @@
 [pdfviewer2]: ./Easy/DesignerPDFViewer/solution.js
 [utopiantree1]: https://www.hackerrank.com/challenges/utopian-tree/problem
 [utopiantree2]: ./Easy/UtopianTree/solution.js
+[angryprofessor1]: https://www.hackerrank.com/challenges/angry-professor/problem
+[angryprofessor2]: ./Easy/AngryProfessor/solution.js
+[beatifuldays1]: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
+[beatifuldays2]: ./Easy/BeautifulDaysAtTheMovies/solution.js
 [sequenceequation1]: https://www.hackerrank.com/challenges/permutation-equation/problem
 [sequenceequation2]: ./Easy/SequenceEquation/solution.py
 [jumpingontheclouds1]: https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
