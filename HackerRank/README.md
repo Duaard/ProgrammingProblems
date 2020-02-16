@@ -35,6 +35,8 @@
 | [Utopian Tree][utopiantree1]                            | [solution.js][utopiantree2]        |                | Algorithms | Implementation | 01/17/2020  |
 | [Angry Professor][angryprofessor1]                      | [solution.js][angryprofessor2]     |                | Algorithms | Implementation | 01/18/2020  |
 | [Beatiful Days at the Movies][beatifuldays1]            | [solution.js][beatifuldays2]       |                | Algorithms | Implementation | 01/19/2020  |
+| [Viral Advertising][viraladvertising1]                  | [solution.js][viraladvertising2]   |                | Algorithms | Implementation | 01/20/2020  |
+| [Save the Prisoner!][savetheprisoner1]                  | [solution.js][savetheprisoner2]    |                | Algorithms | Implementation | 01/21/2020  |
 | [Sequence Equation][sequenceequation1]                  | [solution.py][sequenceequation2]   |                | Algorithms | Implementation | 01/31/2020  |
 | [Jumping on the Clouds: Revisited][jumpingontheclouds1] | [solution.py][jumpingontheclouds2] |                | Algorithms | Implementation | 02/01/2020  |
 | [Find Digits][finddigits1]                              | [solution.py][finddigits2]         |                | Algorithms | Implementation | 02/02/2020  |
@@ -116,6 +118,10 @@
 [angryprofessor2]: ./Easy/AngryProfessor/solution.js
 [beatifuldays1]: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
 [beatifuldays2]: ./Easy/BeautifulDaysAtTheMovies/solution.js
+[viraladvertising1]: https://www.hackerrank.com/challenges/strange-advertising/problem
+[viraladvertising2]: ./Easy/ViralAdvertising/solution.js
+[savetheprisoner1]: https://www.hackerrank.com/challenges/save-the-prisoner/problem
+[savetheprisoner2]: ./Easy/SaveThePrisoner/solution.js
 [sequenceequation1]: https://www.hackerrank.com/challenges/permutation-equation/problem
 [sequenceequation2]: ./Easy/SequenceEquation/solution.py
 [jumpingontheclouds1]: https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
