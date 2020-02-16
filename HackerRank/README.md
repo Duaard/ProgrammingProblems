@@ -49,6 +49,7 @@
 | [Equalize the Array][equalizethearray1]                 | [solution.py][equalizethearray2]   |                | Algorithms | Implementation | 02/12/2020  |
 | [ACM ICPC Team][acmicpcteam1]                           | [solution.py][acmicpcteam2]        |                | Algorithms | Implementation | 02/13/2020  |
 | [Taum and B'day][taumandbday1]                          | [solution.py][taumandbday2]        |                | Algorithms | Implementation | 02/15/2020  |
+| [Modified Kaprekar Numbers][kaprekarnumbers1]           | [solution.py][kaprekarnumbers2]    |                | Algorithms | Implementation | 02/16/2020  |
 
 ## Medium
 
@@ -148,3 +149,5 @@
 [acmicpcteam2]: ./Easy/ACMICPCTeam/solution.py
 [taumandbday1]: https://www.hackerrank.com/challenges/taum-and-bday/problem
 [taumandbday2]: ./Easy/TaumAndBday/solution.py
+[kaprekarnumbers1]: https://www.hackerrank.com/challenges/kaprekar-numbers/problem
+[kaprekarnumbers2]: ./Easy/KaprekarNumbers/solution.py
