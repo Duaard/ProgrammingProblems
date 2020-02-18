@@ -158,3 +158,5 @@
 [kaprekarnumbers2]: ./Easy/KaprekarNumbers/solution.py
 [beautifultriplets1]: https://www.hackerrank.com/challenges/beautiful-triplets/problem
 [beautifultriplets2]: ./Easy/BeautifulTriplets/solution.py
+[minimumdistances1]: https://www.hackerrank.com/challenges/minimum-distances/problem
+[minimumdistances2]: ./Easy/MinimumDistances/solution.py
