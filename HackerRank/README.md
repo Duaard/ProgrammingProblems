@@ -52,6 +52,7 @@
 | [Taum and B'day][taumandbday1]                          | [solution.py][taumandbday2]           |                | Algorithms | Implementation | 02/15/2020  |
 | [Modified Kaprekar Numbers][kaprekarnumbers1]           | [solution.py][kaprekarnumbers2]       |                | Algorithms | Implementation | 02/16/2020  |
 | [Beautiful Triplets][beautifultriplets1]                | [solution.py][beautifultriplets2]     |                | Algorithms | Implementation | 02/17/2020  |
+| [Minimum Distances][minimumdistances1]                  | [solution.py][minimumdistances2]      |                | Algorithms | Implementation | 02/18/2020  |
 
 ## Medium
 
