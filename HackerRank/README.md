@@ -59,6 +59,7 @@
 | Problem                                       | My Solution                         | What I learned | Domain     | Sub-Domain     | Date Solved |
 | --------------------------------------------- | ----------------------------------- | -------------- | ---------- | -------------- | ----------- |
 | [Extra Long Factorials][extralongfactorials1] | [solution.py][extralongfactorials2] |                | Algorithms | Implementation | 02/08/2020  |
+| [Forming a Magic Square][magicsquare1]        | [solution.py][magicsquare2]         |                | Algorithms | Implementation | 02/19/2020  |
 
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
@@ -160,3 +161,5 @@
 [beautifultriplets2]: ./Easy/BeautifulTriplets/solution.py
 [minimumdistances1]: https://www.hackerrank.com/challenges/minimum-distances/problem
 [minimumdistances2]: ./Easy/MinimumDistances/solution.py
+
+git
