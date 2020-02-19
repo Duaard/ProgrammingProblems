@@ -161,5 +161,5 @@
 [beautifultriplets2]: ./Easy/BeautifulTriplets/solution.py
 [minimumdistances1]: https://www.hackerrank.com/challenges/minimum-distances/problem
 [minimumdistances2]: ./Easy/MinimumDistances/solution.py
-
-git
+[magicsquare1]: https://www.hackerrank.com/challenges/magic-square-forming/problem
+[magicsquare2]: ./Medium/FormingAMagicSquare/solution.py
