@@ -56,10 +56,11 @@
 
 ## Medium
 
-| Problem                                       | My Solution                         | What I learned | Domain     | Sub-Domain     | Date Solved |
-| --------------------------------------------- | ----------------------------------- | -------------- | ---------- | -------------- | ----------- |
-| [Extra Long Factorials][extralongfactorials1] | [solution.py][extralongfactorials2] |                | Algorithms | Implementation | 02/08/2020  |
-| [Forming a Magic Square][magicsquare1]        | [solution.py][magicsquare2]         |                | Algorithms | Implementation | 02/19/2020  |
+| Problem                                             | My Solution                            | What I learned | Domain     | Sub-Domain     | Date Solved |
+| --------------------------------------------------- | -------------------------------------- | -------------- | ---------- | -------------- | ----------- |
+| [Extra Long Factorials][extralongfactorials1]       | [solution.py][extralongfactorials2]    |                | Algorithms | Implementation | 02/08/2020  |
+| [Forming a Magic Square][magicsquare1]              | [solution.py][magicsquare2]            |                | Algorithms | Implementation | 02/19/2020  |
+| [Climbing the Leaderboard][climbingtheleaderboard1] | [solution.py][climbingtheleaderboard2] |                | Algorithms | Implementation | 02/21/2020  |
 
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
@@ -163,3 +164,5 @@
 [minimumdistances2]: ./Easy/MinimumDistances/solution.py
 [magicsquare1]: https://www.hackerrank.com/challenges/magic-square-forming/problem
 [magicsquare2]: ./Medium/FormingAMagicSquare/solution.py
+[climbingtheleaderboard1]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+[climbingtheleaderboard2]: ./Medium/ClimbingTheLeaderboard
