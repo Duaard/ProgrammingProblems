@@ -53,6 +53,7 @@
 | [Modified Kaprekar Numbers][kaprekarnumbers1]           | [solution.py][kaprekarnumbers2]       |                | Algorithms | Implementation | 02/16/2020  |
 | [Beautiful Triplets][beautifultriplets1]                | [solution.py][beautifultriplets2]     |                | Algorithms | Implementation | 02/17/2020  |
 | [Minimum Distances][minimumdistances1]                  | [solution.py][minimumdistances2]      |                | Algorithms | Implementation | 02/18/2020  |
+| [Halloween Sale][halloweensale1]                        | [solution.py][halloweensale2]         |                | Algorithms | Implementation | 02-23-2020  |
 
 ## Medium
 
@@ -165,4 +166,6 @@
 [magicsquare1]: https://www.hackerrank.com/challenges/magic-square-forming/problem
 [magicsquare2]: ./Medium/FormingAMagicSquare/solution.py
 [climbingtheleaderboard1]: https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
-[climbingtheleaderboard2]: ./Medium/ClimbingTheLeaderboard
+[climbingtheleaderboard2]: ./Medium/ClimbingTheLeaderboard/solution.py
+[halloweensale1]: https://www.hackerrank.com/challenges/halloween-sale/problem
+[halloweensale2]: ./Easy/HalloweenSale/solution.py
