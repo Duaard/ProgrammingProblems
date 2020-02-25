@@ -55,6 +55,7 @@
 | [Minimum Distances][minimumdistances1]                  | [solution.py][minimumdistances2]      |                | Algorithms | Implementation | 02/18/2020  |
 | [Halloween Sale][halloweensale1]                        | [solution.py][halloweensale2]         |                | Algorithms | Implementation | 02/23/2020  |
 | [Chocolate Feast][chocolatefeast1]                      | [solution.py][chocolatefeast2]        |                | Algorithms | Implementation | 02/24/2020  |
+| [Service Lane][servicelane1]                            | [solution.py][servicelane2]           |                | Algorithms | Implementation | 02/25/2020  |
 
 ## Medium
 
@@ -172,3 +173,5 @@
 [halloweensale2]: ./Easy/HalloweenSale/solution.py
 [chocolatefeast1]: https://www.hackerrank.com/challenges/chocolate-feast/problem
 [chocolatefeast2]: ./Easy/ChocolateFeast/solution.py
+[servicelane1]: https://www.hackerrank.com/challenges/service-lane/problem
+[servicelane2]: ./Easy/ServiceLane/solution.py
