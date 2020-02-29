@@ -56,6 +56,8 @@
 | [Halloween Sale][halloweensale1]                        | [solution.py][halloweensale2]         |                | Algorithms | Implementation | 02/23/2020  |
 | [Chocolate Feast][chocolatefeast1]                      | [solution.py][chocolatefeast2]        |                | Algorithms | Implementation | 02/24/2020  |
 | [Service Lane][servicelane1]                            | [solution.py][servicelane2]           |                | Algorithms | Implementation | 02/25/2020  |
+| [Lisa's Workbook][lisasworkbook1]                       | [solution.py][lisasworkbook2]         |                | Algorithms | Implementation | 02/27/2020  |
+| [Flatland Space Station][flatlandspacestation1]         | [solution.py][flatlandspacestation2]  |                | Algorithms | Implementation | 02/29/2020  |
 
 ## Medium
 
@@ -175,3 +177,7 @@
 [chocolatefeast2]: ./Easy/ChocolateFeast/solution.py
 [servicelane1]: https://www.hackerrank.com/challenges/service-lane/problem
 [servicelane2]: ./Easy/ServiceLane/solution.py
+[lisasworkbook1]: https://www.hackerrank.com/challenges/lisa-workbook/problem
+[lisasworkbook2]: ./Easy/LisasWorkbook/solution.py
+[flatlandspacestation1]: https://www.hackerrank.com/challenges/flatland-space-stations/problem
+[flatlandspacestation2]: ./Easy/FlatlandSpaceStation/solution.py
