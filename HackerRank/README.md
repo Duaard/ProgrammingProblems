@@ -58,7 +58,8 @@
 | [Service Lane][servicelane1]                            | [solution.py][servicelane2]           |                | Algorithms | Implementation | 02/25/2020  |
 | [Lisa's Workbook][lisasworkbook1]                       | [solution.py][lisasworkbook2]         |                | Algorithms | Implementation | 02/27/2020  |
 | [Flatland Space Station][flatlandspacestation1]         | [solution.py][flatlandspacestation2]  |                | Algorithms | Implementation | 02/29/2020  |
-| [Fair Rations][fairrations1]                            | [solution.py][fairrations2]           |                | Algorithms | Implementation | 03/1/2020   |
+| [Fair Rations][fairrations1]                            | [solution.py][fairrations2]           |                | Algorithms | Implementation | 03/01/2020  |
+| [Cavity Map][cavitymap1]                                | [solution.py][cavitymap2]             |                | Algorithms | Implementation | 03/02/2020  |
 
 ## Medium
 
@@ -184,3 +185,5 @@
 [flatlandspacestation2]: ./Easy/FlatlandSpaceStation/solution.py
 [fairrations1]: https://www.hackerrank.com/challenges/fair-rations/problem
 [fairrations2]: ./Easy/FairRations/solution.py
+[cavitymap1]: https://www.hackerrank.com/challenges/cavity-map/problem
+[cavitymap2]: ./Easy/CavityMap/solution.py
