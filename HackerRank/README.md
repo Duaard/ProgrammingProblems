@@ -60,6 +60,7 @@
 | [Flatland Space Station][flatlandspacestation1]         | [solution.py][flatlandspacestation2]  |                | Algorithms | Implementation | 02/29/2020  |
 | [Fair Rations][fairrations1]                            | [solution.py][fairrations2]           |                | Algorithms | Implementation | 03/01/2020  |
 | [Cavity Map][cavitymap1]                                | [solution.py][cavitymap2]             |                | Algorithms | Implementation | 03/02/2020  |
+| [Manasa And Stones][manasaandstones1]                   | [solution.py][manasaandstones2]       |                | Algorithms | Implementation | 03/03/2020  |
 
 ## Medium
 
@@ -187,3 +188,5 @@
 [fairrations2]: ./Easy/FairRations/solution.py
 [cavitymap1]: https://www.hackerrank.com/challenges/cavity-map/problem
 [cavitymap2]: ./Easy/CavityMap/solution.py
+[manasaandstones1]: https://www.hackerrank.com/challenges/manasa-and-stones/problem
+[manasaandstones2]: ./Easy/ManasaAndStones/solution.py
