@@ -61,7 +61,8 @@
 | [Fair Rations][fairrations1]                            | [solution.py][fairrations2]           |                | Algorithms | Implementation | 03/01/2020  |
 | [Cavity Map][cavitymap1]                                | [solution.py][cavitymap2]             |                | Algorithms | Implementation | 03/02/2020  |
 | [Manasa And Stones][manasaandstones1]                   | [solution.py][manasaandstones2]       |                | Algorithms | Implementation | 03/03/2020  |
-| [Happy Ladybugs][happyladybugs1]                        | [solution.py][happyladybugs2]         |                | Algorithm  | Implementation | 03/04/2020  |
+| [Happy Ladybugs][happyladybugs1]                        | [solution.py][happyladybugs2]         |                | Algorithms | Implementation | 03/04/2020  |
+| [Strange Counter][strangecounter1]                      | [solution.py][strangecounter2]        |                | Algorithms | Implementation | 03/05/2020  |
 
 ## Medium
 
@@ -193,3 +194,5 @@
 [manasaandstones2]: ./Easy/ManasaAndStones/solution.py
 [happyladybugs1]: https://www.hackerrank.com/challenges/happy-ladybugs/problem
 [happyladybugs2]: ./Easy/HappyLadybugs/solution.py
+[strangecounter1]: https://www.hackerrank.com/challenges/strange-code/problem
+[strangecounter2]: ./Easy/StrangeCounter/solution.py
