@@ -63,6 +63,7 @@
 | [Manasa And Stones][manasaandstones1]                   | [solution.py][manasaandstones2]       |                | Algorithms | Implementation | 03/03/2020  |
 | [Happy Ladybugs][happyladybugs1]                        | [solution.py][happyladybugs2]         |                | Algorithms | Implementation | 03/04/2020  |
 | [Strange Counter][strangecounter1]                      | [solution.py][strangecounter2]        |                | Algorithms | Implementation | 03/05/2020  |
+| [Big Sorting][bigsorting1]                              | [solution.py][bigsorting2]            |                | Algorithms | Implementation | 03/06/2020  |
 
 ## Medium
 
@@ -196,3 +197,5 @@
 [happyladybugs2]: ./Easy/HappyLadybugs/solution.py
 [strangecounter1]: https://www.hackerrank.com/challenges/strange-code/problem
 [strangecounter2]: ./Easy/StrangeCounter/solution.py
+[bigsorting1]: https://www.hackerrank.com/challenges/big-sorting/problem
+[bigsorting2]: ./Easy/BigSorting/solution.py
