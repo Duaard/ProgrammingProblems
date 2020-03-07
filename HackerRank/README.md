@@ -64,6 +64,7 @@
 | [Happy Ladybugs][happyladybugs1]                        | [solution.py][happyladybugs2]         |                | Algorithms | Implementation | 03/04/2020  |
 | [Strange Counter][strangecounter1]                      | [solution.py][strangecounter2]        |                | Algorithms | Implementation | 03/05/2020  |
 | [Big Sorting][bigsorting1]                              | [solution.py][bigsorting2]            |                | Algorithms | Implementation | 03/06/2020  |
+| [Super Reduced String][reducedstring1]                  | [solution.py][reducedstring2]         |                | Algorithms | Strings        | 03/07/2020  |
 
 ## Medium
 
@@ -199,3 +200,5 @@
 [strangecounter2]: ./Easy/StrangeCounter/solution.py
 [bigsorting1]: https://www.hackerrank.com/challenges/big-sorting/problem
 [bigsorting2]: ./Easy/BigSorting/solution.py
+[reducedstring1]: https://www.hackerrank.com/challenges/reduced-string/problem
+[reducedstring2]: ./Easy/SuperReducedString/solution.py
