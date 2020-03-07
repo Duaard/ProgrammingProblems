@@ -65,6 +65,7 @@
 | [Strange Counter][strangecounter1]                      | [solution.py][strangecounter2]        |                | Algorithms | Implementation | 03/05/2020  |
 | [Big Sorting][bigsorting1]                              | [solution.py][bigsorting2]            |                | Algorithms | Sorting        | 03/06/2020  |
 | [Super Reduced String][reducedstring1]                  | [solution.py][reducedstring2]         |                | Algorithms | Strings        | 03/07/2020  |
+| [Intro to Tutorial Challenges][intro1]                  | [solution.py][intro2]                 |                | Algorithms | Sorting        | 03/08/2020  |
 
 ## Medium
 
@@ -202,3 +203,5 @@
 [bigsorting2]: ./Easy/BigSorting/solution.py
 [reducedstring1]: https://www.hackerrank.com/challenges/reduced-string/problem
 [reducedstring2]: ./Easy/SuperReducedString/solution.py
+[intro1]: https://www.hackerrank.com/challenges/tutorial-intro/problem
+[intro2]: ./Easy/IntroToTutorialChallenges/solution.py
