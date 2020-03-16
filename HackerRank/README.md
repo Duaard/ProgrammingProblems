@@ -69,6 +69,7 @@
 | [Insertion Sort - Part 1][insertion1_1]                 | [solution.py][insertion1_2]           |                | Algorithms | Sorting        | 03/09/2020  |
 | [Insertion Sort - Part 2][insertion2_1]                 | [solution.py][insertion2_2]           |                | Algorithms | Sorting        | 03/11/2020  |
 | [Correctness and the Loop Invariant][loopinvariant1]    | [solution.py][loopinvariant2]         |                | Algorithms | Sorting        | 03/12/2020  |
+| [Running Time of Algorithms][runningtime1]              | [solution.py][runningtime2]           |                | Algorithms | Sorting        | 03/16/2020  |
 
 ## Medium
 
@@ -214,3 +215,5 @@
 [insertion2_2]: ./Easy/Insertion2/solution.py
 [loopinvariant1]: https://www.hackerrank.com/challenges/correctness-invariant/problem
 [loopinvariant2]: ./Easy/LoopInvariant/solution.py
+[runningtime1]: https://www.hackerrank.com/challenges/runningtime/problem
+[runningtime2]: ./Easy/RunningTime/solution.py
