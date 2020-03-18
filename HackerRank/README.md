@@ -80,6 +80,7 @@
 | [Extra Long Factorials][extralongfactorials1]       | [solution.py][extralongfactorials2]    |                | Algorithms | Implementation | 02/08/2020  |
 | [Forming a Magic Square][magicsquare1]              | [solution.py][magicsquare2]            |                | Algorithms | Implementation | 02/19/2020  |
 | [Climbing the Leaderboard][climbingtheleaderboard1] | [solution.py][climbingtheleaderboard2] |                | Algorithms | Implementation | 02/21/2020  |
+| [Quicksort In-Place][quicksort3_1]                  | [solution.py][quicksort3_2]            |                | Algorithms | Sorting        | 03/18/2020  |
 
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
@@ -223,3 +224,5 @@
 [quicksort1_2]: ./Easy/QuickSort1/solution.py
 [quicksort2_1]: https://www.hackerrank.com/challenges/quicksort2/problem
 [quicksort2_2]: ./Easy/QuickSort2/solution.py
+[quicksort3_1]: https://www.hackerrank.com/challenges/quicksort3/problem
+[quicksort3_2]: ./Easy/QuickSort3/solution.py
