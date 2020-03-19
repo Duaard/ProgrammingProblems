@@ -72,6 +72,7 @@
 | [Running Time of Algorithms][runningtime1]              | [solution.py][runningtime2]           |                | Algorithms | Sorting        | 03/16/2020  |
 | [Quicksort 1 - Partition][quicksort1_1]                 | [solution.py][quicksort1_2]           |                | Algorithms | Sorting        | 03/17/2020  |
 | [Quicksort 2 - Sorting][quicksort2_1]                   | [solution.py][quicksort2_2]           |                | Algorithms | Sorting        | 03/18/2020  |
+| [Running Time of Quicksort][quicksort4_1]               | [solution.py][quicksort4_2]           |                | Algorithms | Sorting        | 03/19/2020  |
 
 ## Medium
 
@@ -216,8 +217,8 @@
 [insertion1_2]: ./Easy/Insertion1/solution.py
 [insertion2_1]: https://www.hackerrank.com/challenges/insertionsort2/problem
 [insertion2_2]: ./Easy/Insertion2/solution.py
-[loopinvariant1]: https://www.hackerrank.com/challenges/correctness-invariant/problem
-[loopinvariant2]: ./Easy/LoopInvariant/solution.py
+[loopinvariant1_1]: https://www.hackerrank.com/challenges/correctness-invariant/problem
+[loopinvariant1_2]: ./Easy/LoopInvariant/solution.py
 [runningtime1]: https://www.hackerrank.com/challenges/runningtime/problem
 [runningtime2]: ./Easy/RunningTime/solution.py
 [quicksort1_1]: https://www.hackerrank.com/challenges/quicksort1/problem
@@ -225,4 +226,6 @@
 [quicksort2_1]: https://www.hackerrank.com/challenges/quicksort2/problem
 [quicksort2_2]: ./Easy/QuickSort2/solution.py
 [quicksort3_1]: https://www.hackerrank.com/challenges/quicksort3/problem
-[quicksort3_2]: ./Easy/QuickSort3/solution.py
+[quicksort3_2]: ./Medium/QuickSort3/solution.py
+[quicksort4_1]: https://www.hackerrank.com/challenges/quicksort4/problem
+[quicksort4_2]: ./Easy/QuickSort4/solution.py
