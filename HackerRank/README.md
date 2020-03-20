@@ -73,6 +73,7 @@
 | [Quicksort 1 - Partition][quicksort1_1]                 | [solution.py][quicksort1_2]           |                | Algorithms | Sorting        | 03/17/2020  |
 | [Quicksort 2 - Sorting][quicksort2_1]                   | [solution.py][quicksort2_2]           |                | Algorithms | Sorting        | 03/18/2020  |
 | [Running Time of Quicksort][quicksort4_1]               | [solution.py][quicksort4_2]           |                | Algorithms | Sorting        | 03/19/2020  |
+| [Counting Sort 1][countingsort1_1]                      | [solution.py][countingsort1_2]        |                | Algorithms | Sorting        | 03/20/2020  |
 
 ## Medium
 
@@ -229,3 +230,5 @@
 [quicksort3_2]: ./Medium/QuickSort3/solution.py
 [quicksort4_1]: https://www.hackerrank.com/challenges/quicksort4/problem
 [quicksort4_2]: ./Easy/QuickSort4/solution.py
+[countingsort1_1]: https://www.hackerrank.com/challenges/countingsort1/problem
+[countingsort1_2]: ./Easy/CountingSort1/solution.py
