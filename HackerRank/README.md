@@ -75,6 +75,7 @@
 | [Running Time of Quicksort][quicksort4_1]               | [solution.py][quicksort4_2]           |                | Algorithms | Sorting        | 03/19/2020  |
 | [Counting Sort 1][countingsort1_1]                      | [solution.py][countingsort1_2]        |                | Algorithms | Sorting        | 03/20/2020  |
 | [Counting Sort 2][countingsort2_1]                      | [solution.py][countingsort2_2]        |                | Algorithms | Sorting        | 03/21/2020  |
+| [Counting Sort 3][countingsort3_1]                      | [solution.py][countingsort3_2]        |                | Algorithms | Sorting        | 03/21/2020  |
 
 ## Medium
 
@@ -235,3 +236,5 @@
 [countingsort1_2]: ./Easy/CountingSort1/solution.py
 [countingsort2_1]: https://www.hackerrank.com/challenges/countingsort2/problem
 [countingsort2_2]: ./Easy/CountingSort2/solution.py
+[countingsort3_1]: https://www.hackerrank.com/challenges/countingsort3/problem
+[countingsort3_2]: ./Easy/CountingSort3/solution.py
