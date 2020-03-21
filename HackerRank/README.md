@@ -85,6 +85,7 @@
 | [Forming a Magic Square][magicsquare1]              | [solution.py][magicsquare2]            |                | Algorithms | Implementation | 02/19/2020  |
 | [Climbing the Leaderboard][climbingtheleaderboard1] | [solution.py][climbingtheleaderboard2] |                | Algorithms | Implementation | 02/21/2020  |
 | [Quicksort In-Place][quicksort3_1]                  | [solution.py][quicksort3_2]            |                | Algorithms | Sorting        | 03/18/2020  |
+| [The Full Counting Sort][countingsort4_1]           | [solution.py][countingsort4_2]         |                | Algorithms | Sorting        | 03/21/2020  |
 
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
@@ -238,3 +239,5 @@
 [countingsort2_2]: ./Easy/CountingSort2/solution.py
 [countingsort3_1]: https://www.hackerrank.com/challenges/countingsort3/problem
 [countingsort3_2]: ./Easy/CountingSort3/solution.py
+[countingsort4_1]: https://www.hackerrank.com/challenges/countingsort4/problem
+[countingsort4_2]: ./Medium/CountingSort4/solution.py
