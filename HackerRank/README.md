@@ -76,6 +76,7 @@
 | [Counting Sort 1][countingsort1_1]                      | [solution.py][countingsort1_2]        |                | Algorithms | Sorting        | 03/20/2020  |
 | [Counting Sort 2][countingsort2_1]                      | [solution.py][countingsort2_2]        |                | Algorithms | Sorting        | 03/21/2020  |
 | [Counting Sort 3][countingsort3_1]                      | [solution.py][countingsort3_2]        |                | Algorithms | Sorting        | 03/21/2020  |
+| [Strong Password][strongpassword1]                      | [solution.py][strongpassword2]        |                | Algorithms | Strings        | 03/24/2020  |
 
 ## Medium
 
@@ -244,3 +245,5 @@
 [countingsort4_2]: ./Medium/CountingSort4/solution.py
 [nondiv1]: https://www.hackerrank.com/challenges/non-divisible-subset/problem
 [nondiv2]: ./Medium/NonDivisibleSubset/solution.py
+[strongpassword1]: https://www.hackerrank.com/challenges/strong-password/problem
+[strongpassword2]: ./Easy/StrongPassword/solution.py
