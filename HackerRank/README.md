@@ -89,6 +89,7 @@
 | [The Full Counting Sort][countingsort4_1]           | [solution.py][countingsort4_2]         |                | Algorithms | Sorting        | 03/21/2020  |
 | [Non-Divisible Subset][nondiv1]                     | [solution.py][nondiv2]                 |                | Algorithms | Implementation | 03/23/2020  |
 | [Queen's Attack 2][queensattack2_1]                 | [solution.py][queensattack2]           |                | Algorithms | Implementation | 03/26/2020  |
+| [Encrpytion][encryption1]                           | [solution.py][encryption2]             |                | Algorithms | Implementation | 03/27/2020  |
 
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
@@ -250,3 +251,5 @@
 [strongpassword2]: ./Easy/StrongPassword/solution.py
 [queensattack2_1]: https://www.hackerrank.com/challenges/queens-attack-2/problem
 [queensattack2_2]: ./Medium/QueensAttack2/solution.py
+[encryption1]: https://www.hackerrank.com/challenges/encryption/problem
+[encryption2]: ./Medium/Encryption/solution.py
