@@ -78,6 +78,7 @@
 | [Counting Sort 3][countingsort3_1]                      | [solution.py][countingsort3_2]        |                | Algorithms | Sorting        | 03/21/2020  |
 | [Strong Password][strongpassword1]                      | [solution.py][strongpassword2]        |                | Algorithms | Strings        | 03/24/2020  |
 | [Two Letters][twoletters1]                              | [solution.py][twoletters2]            |                | Algorithms | Strings        | 03/30/2020  |
+| [CamelCase][camelcase1]                                 | [solution.py][camelcase2]             |                | Algorithms | Strings        | 04/02/2020  |
 
 ## Medium
 
@@ -256,3 +257,5 @@
 [encryption2]: ./Medium/Encryption/solution.py
 [twoletters1]: https://www.hackerrank.com/challenges/two-characters/problem
 [twoletters2]: ./Easy/TwoLetters/solution.py
+[camelcase1]: https://www.hackerrank.com/challenges/camelcase/problem
+[camelcase2]: ./Easy/CamelCase/solution.py
