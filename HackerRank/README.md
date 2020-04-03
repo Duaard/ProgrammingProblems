@@ -92,6 +92,7 @@
 | [Non-Divisible Subset][nondiv1]                     | [solution.py][nondiv2]                 |                | Algorithms | Implementation | 03/23/2020  |
 | [Queen's Attack 2][queensattack2_1]                 | [solution.py][queensattack2]           |                | Algorithms | Implementation | 03/26/2020  |
 | [Encrpytion][encryption1]                           | [solution.py][encryption2]             |                | Algorithms | Implementation | 03/27/2020  |
+| [Organizing Containers of Balls][containersballs1]  | [solution.py][containersballs2]        |                | Algorithms | Implementation | 04/03/2020  |
 
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
@@ -259,3 +260,5 @@
 [twoletters2]: ./Easy/TwoLetters/solution.py
 [camelcase1]: https://www.hackerrank.com/challenges/camelcase/problem
 [camelcase2]: ./Easy/CamelCase/solution.py
+[containersballs1]: https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem
+[containersballs2]: ./Medium/ContainersBalls/solution.py
