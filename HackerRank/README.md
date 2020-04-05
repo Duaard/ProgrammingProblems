@@ -94,6 +94,7 @@
 | [Encrpytion][encryption1]                           | [solution.py][encryption2]             |                | Algorithms | Implementation | 03/27/2020  |
 | [Organizing Containers of Balls][containersballs1]  | [solution.py][containersballs2]        |                | Algorithms | Implementation | 04/03/2020  |
 | [Bigger is Greater][biggergreater1]                 | [solution.py][biggergreater2]          |                | Algorithms | Implementation | 04/04/2020  |
+| [The Time in Words][timeinwords1]                   | [solution.py][timeinwords2]            |                | Algorithms | Implementation | 04/05/2020  |
 
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
@@ -265,3 +266,5 @@
 [containersballs2]: ./Medium/ContainersBalls/solution.py
 [biggergreater1]: https://www.hackerrank.com/challenges/bigger-is-greater/problem
 [biggergreater2]: ./Medium/BiggerGreater/solution.py
+[timeinwords1]: https://www.hackerrank.com/challenges/the-time-in-words/problem
+[timeinwords2]: ./Medium/TheTimeInWords/solution.py
