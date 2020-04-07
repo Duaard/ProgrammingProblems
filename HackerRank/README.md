@@ -96,6 +96,7 @@
 | [Bigger is Greater][biggergreater1]                 | [solution.py][biggergreater2]          |                | Algorithms | Implementation | 04/04/2020  |
 | [The Time in Words][timeinwords1]                   | [solution.py][timeinwords2]            |                | Algorithms | Implementation | 04/05/2020  |
 | [The Grid Search][gridsearch1]                      | [solution.py][gridsearch2]             |                | Algorithms | Implementation | 04/06/2020  |
+| [3D Surface Area][surfacearea1]                     | [solution.py][surfacearea2]            |                | Algorithms | Implementation | 04/07/2020  |
 
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
@@ -271,3 +272,5 @@
 [timeinwords2]: ./Medium/TheTimeInWords/solution.py
 [gridsearch1]: https://www.hackerrank.com/challenges/the-grid-search/problem
 [gridsearch2]: ./Medium/TheGridSearch/solution.py
+[surfacearea1]: https://www.hackerrank.com/challenges/3d-surface-area/problem
+[surfacearea2]: ./Medium/3DSurfaceArea/solution.py
