@@ -97,6 +97,7 @@
 | [The Time in Words][timeinwords1]                   | [solution.py][timeinwords2]            |                | Algorithms | Implementation | 04/05/2020  |
 | [The Grid Search][gridsearch1]                      | [solution.py][gridsearch2]             |                | Algorithms | Implementation | 04/06/2020  |
 | [3D Surface Area][surfacearea1]                     | [solution.py][surfacearea2]            |                | Algorithms | Implementation | 04/07/2020  |
+| [Absolute Permutation][absolutepermutation1]        | [solution.py][absolutepermutation2]    |                | Algorithms | Implementation | 04/08/2020  |
 
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
@@ -274,3 +275,5 @@
 [gridsearch2]: ./Medium/TheGridSearch/solution.py
 [surfacearea1]: https://www.hackerrank.com/challenges/3d-surface-area/problem
 [surfacearea2]: ./Medium/3DSurfaceArea/solution.py
+[absolutepermutation1]: https://www.hackerrank.com/challenges/absolute-permutation/problem
+[absolutepermutation2]: ./Medium/AbsolutePermutation/solution.py
