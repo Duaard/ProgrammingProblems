@@ -98,6 +98,7 @@
 | [The Grid Search][gridsearch1]                      | [solution.py][gridsearch2]             |                | Algorithms | Implementation | 04/06/2020  |
 | [3D Surface Area][surfacearea1]                     | [solution.py][surfacearea2]            |                | Algorithms | Implementation | 04/07/2020  |
 | [Absolute Permutation][absolutepermutation1]        | [solution.py][absolutepermutation2]    |                | Algorithms | Implementation | 04/08/2020  |
+| [The Bomberman Game][bomberman1]                    | [solution.py][bomberman2]              |                | Algorithms | Implementation | 04/09/2020  |
 
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
