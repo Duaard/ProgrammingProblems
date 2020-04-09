@@ -278,3 +278,5 @@
 [surfacearea2]: ./Medium/3DSurfaceArea/solution.py
 [absolutepermutation1]: https://www.hackerrank.com/challenges/absolute-permutation/problem
 [absolutepermutation2]: ./Medium/AbsolutePermutation/solution.py
+[bomberman1]: https://www.hackerrank.com/challenges/bomber-man/problem
+[bomberman2]: ./Medium/TheBombermanGame/solution.py
