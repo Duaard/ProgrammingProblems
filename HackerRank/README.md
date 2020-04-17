@@ -101,6 +101,7 @@
 | [Absolute Permutation][absolutepermutation1]        | [solution.py][absolutepermutation2]    |                | Algorithms | Implementation | 04/08/2020  |
 | [The Bomberman Game][bomberman1]                    | [solution.py][bomberman2]              |                | Algorithms | Implementation | 04/09/2020  |
 | [Ema's Supercomputer][supercomputer1]               | [solution.py][supercomputer2]          |                | Algorithms | Implementation | 04/14/2020  |
+| [Larry's Array][larrysarray1]                       | [solution.py][larrysarray2]            |                | Algorithms | Implementation | 04/18/2020  |
 
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
@@ -286,3 +287,5 @@
 [supercomputer2]: ./Medium/EmasSuperComputer/solution.py
 [ceasarcipher1]: https://www.hackerrank.com/challenges/caesar-cipher-1/problem
 [ceasarcipher2]: ./Easy/CeasarCipher/solution.py
+[larrysarray1]: https://www.hackerrank.com/challenges/larrys-array/problem
+[larrysarray2]: ./Medium/LarrysArray/solution.py
