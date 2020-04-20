@@ -102,6 +102,7 @@
 | [The Bomberman Game][bomberman1]                    | [solution.py][bomberman2]              |                | Algorithms | Implementation | 04/09/2020  |
 | [Ema's Supercomputer][supercomputer1]               | [solution.py][supercomputer2]          |                | Algorithms | Implementation | 04/14/2020  |
 | [Larry's Array][larrysarray1]                       | [solution.py][larrysarray2]            |                | Algorithms | Implementation | 04/18/2020  |
+| [Almost Sorted][almostsorted1]                      | [solution.py][almostsorted2]           |                | Algorithms | Implementation | 04/20/2020  |
 
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
@@ -289,3 +290,5 @@
 [ceasarcipher2]: ./Easy/CeasarCipher/solution.py
 [larrysarray1]: https://www.hackerrank.com/challenges/larrys-array/problem
 [larrysarray2]: ./Medium/LarrysArray/solution.py
+[almostsorted1]: https://www.hackerrank.com/challenges/almost-sorted/problem
+[almostsorted2]: ./Medium/AlmostSorted/solution.py
