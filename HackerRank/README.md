@@ -80,6 +80,7 @@
 | [Two Letters][twoletters1]                              | [solution.py][twoletters2]            |                | Algorithms | Strings        | 03/30/2020  |
 | [CamelCase][camelcase1]                                 | [solution.py][camelcase2]             |                | Algorithms | Strings        | 04/02/2020  |
 | [Ceasar Cipher][ceasarcipher1]                          | [solution.py][ceasarcipher2]          |                | Algorithms | Strings        | 04/15/2020  |
+| [Mars Exploration][marsexploration1]                    | [solution.py][marsexploration2]       |                | Algorithms | Strings        | 04/21/2020  |
 
 ## Medium
 
@@ -292,3 +293,5 @@
 [larrysarray2]: ./Medium/LarrysArray/solution.py
 [almostsorted1]: https://www.hackerrank.com/challenges/almost-sorted/problem
 [almostsorted2]: ./Medium/AlmostSorted/solution.py
+[marsexploration1]: https://www.hackerrank.com/challenges/mars-exploration/problem
+[marsexploration2]: ./Easy/MarsExploration/solution.py
