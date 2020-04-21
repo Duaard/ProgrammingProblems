@@ -299,5 +299,5 @@
 [marsexploration2]: ./Easy/MarsExploration/solution.py
 [hackerrankstring1]: https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem
 [hackerrankstring2]: ./Easy/HackerRankString/solution.py
-[pangram1]: https://www.hackerrank.com/challenges/pangrams/problem
-[pangram2]: ./Easy/Pangram/solution.py
+[pangrams1]: https://www.hackerrank.com/challenges/pangrams/problem
+[pangrams2]: ./Easy/Pangrams/solution.py
