@@ -94,7 +94,7 @@
 | [Quicksort In-Place][quicksort3_1]                  | [solution.py][quicksort3_2]            |                | Algorithms | Sorting        | 03/18/2020  |
 | [The Full Counting Sort][countingsort4_1]           | [solution.py][countingsort4_2]         |                | Algorithms | Sorting        | 03/21/2020  |
 | [Non-Divisible Subset][nondiv1]                     | [solution.py][nondiv2]                 |                | Algorithms | Implementation | 03/23/2020  |
-| [Queen's Attack 2][queensattack2_1]                 | [solution.py][queensattack2]           |                | Algorithms | Implementation | 03/26/2020  |
+| [Queen's Attack 2][queensattack2_1]                 | [solution.py][queensattack2_2]         |                | Algorithms | Implementation | 03/26/2020  |
 | [Encrpytion][encryption1]                           | [solution.py][encryption2]             |                | Algorithms | Implementation | 03/27/2020  |
 | [Organizing Containers of Balls][containersballs1]  | [solution.py][containersballs2]        |                | Algorithms | Implementation | 04/03/2020  |
 | [Bigger is Greater][biggergreater1]                 | [solution.py][biggergreater2]          |                | Algorithms | Implementation | 04/04/2020  |
@@ -241,8 +241,8 @@
 [insertion1_2]: ./Easy/Insertion1/solution.py
 [insertion2_1]: https://www.hackerrank.com/challenges/insertionsort2/problem
 [insertion2_2]: ./Easy/Insertion2/solution.py
-[loopinvariant1_1]: https://www.hackerrank.com/challenges/correctness-invariant/problem
-[loopinvariant1_2]: ./Easy/LoopInvariant/solution.py
+[loopinvariant1]: https://www.hackerrank.com/challenges/correctness-invariant/problem
+[loopinvariant2]: ./Easy/LoopInvariant/solution.py
 [runningtime1]: https://www.hackerrank.com/challenges/runningtime/problem
 [runningtime2]: ./Easy/RunningTime/solution.py
 [quicksort1_1]: https://www.hackerrank.com/challenges/quicksort1/problem
