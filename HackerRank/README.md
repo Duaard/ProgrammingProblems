@@ -81,6 +81,8 @@
 | [CamelCase][camelcase1]                                 | [solution.py][camelcase2]             |                | Algorithms | Strings        | 04/02/2020  |
 | [Ceasar Cipher][ceasarcipher1]                          | [solution.py][ceasarcipher2]          |                | Algorithms | Strings        | 04/15/2020  |
 | [Mars Exploration][marsexploration1]                    | [solution.py][marsexploration2]       |                | Algorithms | Strings        | 04/21/2020  |
+| [HackerRank in a String!][hackerrankstring1]            | [solution.py][hackerrankstring2]      |                | Algorithms | Strings        | 04/22/2020  |
+| [Pangrams][pangrams1]                                   | [solution.py][pangrams2]              |                | Algorithms | Strings        | 04/22/2020  |
 
 ## Medium
 
@@ -295,3 +297,7 @@
 [almostsorted2]: ./Medium/AlmostSorted/solution.py
 [marsexploration1]: https://www.hackerrank.com/challenges/mars-exploration/problem
 [marsexploration2]: ./Easy/MarsExploration/solution.py
+[hackerrankstring1]: https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem
+[hackerrankstring2]: ./Easy/HackerRankString/solution.py
+[pangram1]: https://www.hackerrank.com/challenges/pangrams/problem
+[pangram2]: ./Easy/Pangram/solution.py
