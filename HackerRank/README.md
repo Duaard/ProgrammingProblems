@@ -83,6 +83,7 @@
 | [Mars Exploration][marsexploration1]                    | [solution.py][marsexploration2]       |                | Algorithms | Strings        | 04/21/2020  |
 | [HackerRank in a String!][hackerrankstring1]            | [solution.py][hackerrankstring2]      |                | Algorithms | Strings        | 04/22/2020  |
 | [Pangrams][pangrams1]                                   | [solution.py][pangrams2]              |                | Algorithms | Strings        | 04/22/2020  |
+| [Weighted Uniform Strings][uniformstrings1]             | [solution.py][uniformstrings2]        |                | Algorithms | Strings        | 04/23/2020  |
 
 ## Medium
 
@@ -301,3 +302,5 @@
 [hackerrankstring2]: ./Easy/HackerRankString/solution.py
 [pangrams1]: https://www.hackerrank.com/challenges/pangrams/problem
 [pangrams2]: ./Easy/Pangrams/solution.py
+[uniformstrings1]: https://www.hackerrank.com/challenges/weighted-uniform-string/problem
+[uniformstrings2]: ./Easy/WeightedUniformStrings/solution.py
