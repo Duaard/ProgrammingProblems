@@ -84,6 +84,7 @@
 | [HackerRank in a String!][hackerrankstring1]            | [solution.py][hackerrankstring2]      |                | Algorithms | Strings        | 04/22/2020  |
 | [Pangrams][pangrams1]                                   | [solution.py][pangrams2]              |                | Algorithms | Strings        | 04/22/2020  |
 | [Weighted Uniform Strings][uniformstrings1]             | [solution.py][uniformstrings2]        |                | Algorithms | Strings        | 04/23/2020  |
+| [Separate the Numbers][separatenumbers1]                | [solution.py][separatenumbers2]       |                | Algorithms | Strings        | 04/24/2020  |
 
 ## Medium
 
@@ -304,3 +305,5 @@
 [pangrams2]: ./Easy/Pangrams/solution.py
 [uniformstrings1]: https://www.hackerrank.com/challenges/weighted-uniform-string/problem
 [uniformstrings2]: ./Easy/WeightedUniformStrings/solution.py
+[separatenumbers1]: https://www.hackerrank.com/challenges/separate-the-numbers/problem
+[separatenumbers2]: ./Easy/SeparateTheNumbers/solution.py
