@@ -86,6 +86,7 @@
 | [Weighted Uniform Strings][uniformstrings1]             | [solution.py][uniformstrings2]        |                | Algorithms | Strings        | 04/23/2020  |
 | [Separate the Numbers][separatenumbers1]                | [solution.py][separatenumbers2]       |                | Algorithms | Strings        | 04/24/2020  |
 | [Funny String][funnystring1]                            | [solution.py][funnystring2]           |                | Algorithms | Strings        | 04/25/2020  |
+| [Gemstones][gemstones1]                                 | [solution.py][gemstones2]             |                | Algorithms | Strings        | 04/27/2020  |
 
 ## Medium
 
@@ -310,3 +311,5 @@
 [separatenumbers2]: ./Easy/SeparateTheNumbers/solution.py
 [funnystring1]: https://www.hackerrank.com/challenges/funny-string/problem
 [funnystring2]: ./Easy/FunnyString/solution.py
+[gemstones1]: https://www.hackerrank.com/challenges/gem-stones/problem
+[gemstones2]: ./Easy/Gemstones/solution.py
