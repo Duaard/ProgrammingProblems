@@ -87,6 +87,7 @@
 | [Separate the Numbers][separatenumbers1]                | [solution.py][separatenumbers2]       |                | Algorithms | Strings        | 04/24/2020  |
 | [Funny String][funnystring1]                            | [solution.py][funnystring2]           |                | Algorithms | Strings        | 04/25/2020  |
 | [Gemstones][gemstones1]                                 | [solution.py][gemstones2]             |                | Algorithms | Strings        | 04/27/2020  |
+| [Alternating Characters][alternatingcharacters1]        | [solution.py][alternatingcharacters2] |                | Algorithms | Strings        | 04/28/2020  |
 
 ## Medium
 
@@ -313,3 +314,5 @@
 [funnystring2]: ./Easy/FunnyString/solution.py
 [gemstones1]: https://www.hackerrank.com/challenges/gem-stones/problem
 [gemstones2]: ./Easy/Gemstones/solution.py
+[alternatingcharacters1]: https://www.hackerrank.com/challenges/alternating-characters/problem
+[alternatingcharacters2]: ./Easy/AlternatingCharacters/solution.py
