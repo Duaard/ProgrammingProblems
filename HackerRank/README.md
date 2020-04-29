@@ -88,6 +88,7 @@
 | [Funny String][funnystring1]                            | [solution.py][funnystring2]           |                | Algorithms | Strings        | 04/25/2020  |
 | [Gemstones][gemstones1]                                 | [solution.py][gemstones2]             |                | Algorithms | Strings        | 04/27/2020  |
 | [Alternating Characters][alternatingcharacters1]        | [solution.py][alternatingcharacters2] |                | Algorithms | Strings        | 04/28/2020  |
+| [Palindrome Index][palindromeindex1]                    | [solution.py][palindromeindex2]       |                | Algorithms | Strings        | 04/29/2020  |
 
 ## Medium
 
@@ -316,3 +317,5 @@
 [gemstones2]: ./Easy/Gemstones/solution.py
 [alternatingcharacters1]: https://www.hackerrank.com/challenges/alternating-characters/problem
 [alternatingcharacters2]: ./Easy/AlternatingCharacters/solution.py
+[palindromeindex1]: https://www.hackerrank.com/challenges/palindrome-index/problem
+[palindromeindex2]: ./Easy/PalindromeIndex/solution.py
