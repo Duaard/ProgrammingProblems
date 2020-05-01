@@ -90,6 +90,7 @@
 | [Alternating Characters][alternatingcharacters1]        | [solution.py][alternatingcharacters2] |                | Algorithms | Strings        | 04/28/2020  |
 | [Palindrome Index][palindromeindex1]                    | [solution.py][palindromeindex2]       |                | Algorithms | Strings        | 04/29/2020  |
 | [Beautiful Binary String][binarystring1]                | [solution.py][binarystring2]          |                | Algorithms | Strings        | 04/30/2020  |
+| [Closest Numbers][closestnumbers1]                      | [solution.py][closestnumbers2]        |                | Algorithms | Strings        | 05/01/2020  |
 
 ## Medium
 
@@ -322,3 +323,5 @@
 [palindromeindex2]: ./Easy/PalindromeIndex/solution.py
 [binarystring1]: https://www.hackerrank.com/challenges/beautiful-binary-string/problem
 [binarystring2]: ./Easy/BeatifulBinaryString/solution.py
+[closestnumbers1]: https://www.hackerrank.com/challenges/closest-numbers/problem
+[closestnumbers2]: ./Easy/ClosestNumbers/solution.py
