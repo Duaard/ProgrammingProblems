@@ -91,6 +91,7 @@
 | [Palindrome Index][palindromeindex1]                    | [solution.py][palindromeindex2]       |                | Algorithms | Strings        | 04/29/2020  |
 | [Beautiful Binary String][binarystring1]                | [solution.py][binarystring2]          |                | Algorithms | Strings        | 04/30/2020  |
 | [Closest Numbers][closestnumbers1]                      | [solution.py][closestnumbers2]        |                | Algorithms | Strings        | 05/01/2020  |
+| [The Love-Letter Mystery][loveletter1]                  | [solution.py][loveletter2]            |                | Algorithms | Strings        | 05/03/2020  |
 
 ## Medium
 
@@ -324,4 +325,6 @@
 [binarystring1]: https://www.hackerrank.com/challenges/beautiful-binary-string/problem
 [binarystring2]: ./Easy/BeatifulBinaryString/solution.py
 [closestnumbers1]: https://www.hackerrank.com/challenges/closest-numbers/problem
-[closestnumbers2]: ./Easy/ClosestNumbers/solution.py
+[closestnumbers2]: ./Easy/ClosestNumbers/sogilution.py
+[loveletter1]: https://www.hackerrank.com/challenges/the-love-letter-mystery/problem
+[loveletter2]: ./Easy/TheLoveLetterMystery/solution.py
