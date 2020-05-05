@@ -92,6 +92,7 @@
 | [Beautiful Binary String][binarystring1]                | [solution.py][binarystring2]          |                | Algorithms | Strings        | 04/30/2020  |
 | [Closest Numbers][closestnumbers1]                      | [solution.py][closestnumbers2]        |                | Algorithms | Strings        | 05/01/2020  |
 | [The Love-Letter Mystery][loveletter1]                  | [solution.py][loveletter2]            |                | Algorithms | Strings        | 05/03/2020  |
+| [Anagram][anagram1]                                     | [solution.py][anagram2]               |                | Algorithms | Strings        | 05/05/2020  |
 
 ## Medium
 
@@ -328,3 +329,5 @@
 [closestnumbers2]: ./Easy/ClosestNumbers/sogilution.py
 [loveletter1]: https://www.hackerrank.com/challenges/the-love-letter-mystery/problem
 [loveletter2]: ./Easy/TheLoveLetterMystery/solution.py
+[anagram1]: https://www.hackerrank.com/challenges/anagram/problem
+[anagram2]: ./Easy/Anagram/solution.py
