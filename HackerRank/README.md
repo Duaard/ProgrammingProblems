@@ -93,6 +93,7 @@
 | [Closest Numbers][closestnumbers1]                      | [solution.py][closestnumbers2]        |                | Algorithms | Strings        | 05/01/2020  |
 | [The Love-Letter Mystery][loveletter1]                  | [solution.py][loveletter2]            |                | Algorithms | Strings        | 05/03/2020  |
 | [Anagram][anagram1]                                     | [solution.py][anagram2]               |                | Algorithms | Strings        | 05/05/2020  |
+| [Making Anagrams][makinganagrams1]                      | [solution.py][makinganagrams2]        |                | Algorithms | Strings        | 05/06/2020  |
 
 ## Medium
 
@@ -331,3 +332,5 @@
 [loveletter2]: ./Easy/TheLoveLetterMystery/solution.py
 [anagram1]: https://www.hackerrank.com/challenges/anagram/problem
 [anagram2]: ./Easy/Anagram/solution.py
+[makinganagrams1]: https://www.hackerrank.com/challenges/making-anagrams/problem
+[makinganagrams2]: ./Easy/MakingAnagrams/solution.py
