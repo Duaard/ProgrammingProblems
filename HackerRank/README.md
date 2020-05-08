@@ -94,6 +94,7 @@
 | [The Love-Letter Mystery][loveletter1]                  | [solution.py][loveletter2]            |                | Algorithms | Strings        | 05/03/2020  |
 | [Anagram][anagram1]                                     | [solution.py][anagram2]               |                | Algorithms | Strings        | 05/05/2020  |
 | [Making Anagrams][makinganagrams1]                      | [solution.py][makinganagrams2]        |                | Algorithms | Strings        | 05/06/2020  |
+| [Two Strings][twostrings1]                              | [solution.py][twostrings2]            |                | Algorithms | Strings        | 05/08/2020  |
 
 ## Medium
 
@@ -334,3 +335,5 @@
 [anagram2]: ./Easy/Anagram/solution.py
 [makinganagrams1]: https://www.hackerrank.com/challenges/making-anagrams/problem
 [makinganagrams2]: ./Easy/MakingAnagrams/solution.py
+[twostrings1]: https://www.hackerrank.com/challenges/two-strings/problem
+[twostrings2]: ./Easy/TwoStrings/solution.py
