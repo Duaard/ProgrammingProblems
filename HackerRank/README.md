@@ -118,6 +118,7 @@
 | [Ema's Supercomputer][supercomputer1]               | [solution.py][supercomputer2]          |                | Algorithms | Implementation | 04/14/2020  |
 | [Larry's Array][larrysarray1]                       | [solution.py][larrysarray2]            |                | Algorithms | Implementation | 04/18/2020  |
 | [Almost Sorted][almostsorted1]                      | [solution.py][almostsorted2]           |                | Algorithms | Implementation | 04/20/2020  |
+| [Sherlock and Anagrams][sherlockandanagrams1]       | [solution.py][sherlockandanagrams2]    |                | Algorithms | Strings        | 05/09/2020  |
 
 [1]: https://www.hackerrank.com/challenges/solve-me-first/problem
 [2]: ./Easy/SolveMeFirst/solution.py
@@ -337,3 +338,5 @@
 [makinganagrams2]: ./Easy/MakingAnagrams/solution.py
 [twostrings1]: https://www.hackerrank.com/challenges/two-strings/problem
 [twostrings2]: ./Easy/TwoStrings/solution.py
+[sherlockandanagrams1]: https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem
+[sherlockandanagrams2]: ./Medium/SherlockAndAnagrams/solution.py
