@@ -95,6 +95,7 @@
 | [Anagram][anagram1]                                     | [solution.py][anagram2]               |                | Algorithms | Strings        | 05/05/2020  |
 | [Making Anagrams][makinganagrams1]                      | [solution.py][makinganagrams2]        |                | Algorithms | Strings        | 05/06/2020  |
 | [Two Strings][twostrings1]                              | [solution.py][twostrings2]            |                | Algorithms | Strings        | 05/08/2020  |
+| [GameOfThrones][gameofthrones1]                         | [solution.py][gameofthrones2]         |                | Algorithms | Strings        | 05/10/2020  |
 
 ## Medium
 
@@ -340,3 +341,5 @@
 [twostrings2]: ./Easy/TwoStrings/solution.py
 [sherlockandanagrams1]: https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem
 [sherlockandanagrams2]: ./Medium/SherlockAndAnagrams/solution.py
+[gameofthrones1]: https://www.hackerrank.com/challenges/game-of-thrones/problem
+[gameofthrones2]: ./Easy/GameOfThrones/solution.py
