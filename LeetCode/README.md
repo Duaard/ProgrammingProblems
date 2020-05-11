@@ -1,6 +1,12 @@
 # LeetCode problems solved
 
-## April
+## Easy
+
+| Problem            | Solution                | Date Solved |
+| ------------------ | ----------------------- | ----------- |
+| [Two Sum][twosum1] | [solution.cpp][twosum2] | 05/12/2020  |
+
+## April - 30 Day Challenge
 
 | Problem                        | Python Solution              | C++ Solution                  | Date Solved |
 | ------------------------------ | ---------------------------- | ----------------------------- | ----------- |
@@ -13,3 +19,5 @@
 [happynumber1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3284/
 [happynumber2]: ./April/HappyNumber/solution.py
 [happynumber3]: ./April/HappyNumber/solution.cpp
+[twosum1]: https://leetcode.com/problems/two-sum/
+[twosum2]: ./Easy/TwoSum/solution.cpp
