@@ -25,3 +25,6 @@
 [maxsubarray1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3285/
 [maxsubarray2]: ./April/MaxSubarray/solution.py
 [maxsubarray3]: ./April/MaxSubarray/solution.cpp
+[movezeroes1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3286/
+[movezeroes2]: ./April/MoveZeroes/solution.py
+[movezeroes3]: ./April/MoveZeroes/solution.cpp
