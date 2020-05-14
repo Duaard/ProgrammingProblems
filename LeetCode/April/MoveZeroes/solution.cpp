@@ -6,7 +6,7 @@ public:
         // Points to the last non zero index
         int pointer = 0;
         int n = nums.size();
-        a for (int x : nums)
+        for (int x : nums)
         {
             if (x != 0)
             {
