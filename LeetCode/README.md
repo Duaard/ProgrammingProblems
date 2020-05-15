@@ -14,12 +14,13 @@
 
 ## April - 30 Day Challenge
 
-| Problem                          | Python Solution              | C++ Solution                  | Date Solved |
-| -------------------------------- | ---------------------------- | ----------------------------- | ----------- |
-| [Single Number][singlenumber1]   | [solution.py][singlenumber2] | [solution.cpp][singlenumber3] | 05/10//2020 |
-| [Happy Number][happynumber1]     | [solution.py][happynumber2]  | [solution.cpp][happynumber3]  | 05/11/2020  |
-| [Maximum Subarray][maxsubarray1] | [solution.py][maxsubarray2]  | [solution.cpp][maxsubarray3]  | 05/12/2020  |
-| [Move Zeroes][movezeroes1]       | [solution.py][movezeroes2]   | [solution.cpp][movezeroes3]   | 05/14/2020  |
+| Problem                                             | Initial Solution               | Improved Solution              | Date Solved |
+| --------------------------------------------------- | ------------------------------ | ------------------------------ | ----------- |
+| [Single Number][singlenumber1]                      | [solution.py][singlenumber2]   | [solution.cpp][singlenumber3]  | 05/10//2020 |
+| [Happy Number][happynumber1]                        | [solution.py][happynumber2]    | [solution.cpp][happynumber3]   | 05/11/2020  |
+| [Maximum Subarray][maxsubarray1]                    | [solution.py][maxsubarray2]    | [solution.cpp][maxsubarray3]   | 05/12/2020  |
+| [Move Zeroes][movezeroes1]                          | [solution.py][movezeroes2]     | [solution.cpp][movezeroes3]    | 05/14/2020  |
+| [Best Time to Buy and Sell Stock II][buysellstock1] | [solution.cpp][buysellstocks2] | [improved.cpp][buysellstocks3] | 05/15/2020  |
 
 [singlenumber1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/
 [singlenumber2]: ./April/SingleNumber/solution.py
@@ -37,3 +38,6 @@
 [movezeroes3]: ./April/MoveZeroes/solution.cpp
 [addtwonumbers1]: https://leetcode.com/problems/add-two-numbers/
 [addtwonumbers2]: ./Medium/AddTwoNumbers/solution.cpp
+[buysellstocks1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3287/
+[buysellstocks2]: ./April/BuyAndSellStocks/solution.cpp
+[buysellstocks3]: ./April/BuyAndSellStocks/improved.cpp
