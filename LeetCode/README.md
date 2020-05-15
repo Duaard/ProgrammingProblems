@@ -6,6 +6,12 @@
 | ------------------ | ----------------------- | ----------- |
 | [Two Sum][twosum1] | [solution.cpp][twosum2] | 05/12/2020  |
 
+## Medium
+
+| Problem                           | Solution                       | Date Solved |
+| --------------------------------- | ------------------------------ | ----------- |
+| [Add Two Numbers][addtwonumbers1] | [solution.cpp][addtwonumbers2] | 05/15/2020  |
+
 ## April - 30 Day Challenge
 
 | Problem                          | Python Solution              | C++ Solution                  | Date Solved |
@@ -29,3 +35,5 @@
 [movezeroes1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3286/
 [movezeroes2]: ./April/MoveZeroes/solution.py
 [movezeroes3]: ./April/MoveZeroes/solution.cpp
+[addtwonumbers1]: https://leetcode.com/problems/add-two-numbers/
+[addtwonumbers2]: ./Medium/AddTwoNumbers/solution.cpp
