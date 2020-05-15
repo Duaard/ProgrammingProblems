@@ -8,6 +8,7 @@
 | [Way Too Long Words][waytoolongwords1] | [solution.cpp][waytoolongwords2] | 05/14/2020  |
 | [Next Round][nextround1]               | [solution.cpp][nextround2]       | 05/14/2020  |
 | [Bit++][bit++1]                        | [solution.cpp][bit++2]           | 05/15/2020  |
+| [Domino Piling][dominopiling1]         | [solution.cpp][dominopiling2]    | 05/15/2020  |
 
 [watermelon1]: https://codeforces.com/problemset/problem/4/A
 [watermelon2]: ./Watermelon/solution.cpp
@@ -17,3 +18,5 @@
 [nextround2]: ./NextRound/solution.cpp
 [bit++1]: https://codeforces.com/problemset/problem/282/A
 [bit++2]: ./Bit++/solution.cpp
+[dominopiling1]: https://codeforces.com/problemset/problem/50/A
+[dominopiling2]: ./DominoPiling/solution.cpp
