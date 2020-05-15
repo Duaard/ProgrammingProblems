@@ -345,4 +345,4 @@
 [gameofthrones1]: https://www.hackerrank.com/challenges/game-of-thrones/problem
 [gameofthrones2]: ./Easy/GameOfThrones/solution.py
 [icecreamparlor1]: https://www.hackerrank.com/challenges/icecream-parlor/problem
-[icrecreamparlor2]: ./Easy/IceCreamParlor/solution.py
+[icecreamparlor2]: ./Easy/IceCreamParlor/solution.py
