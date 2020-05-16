@@ -42,3 +42,6 @@
 [buysellstocks1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3287/
 [buysellstocks2]: ./April/BuyAndSellStocks/solution.cpp
 [buysellstocks3]: ./April/BuyAndSellStocks/improved.cpp
+[groupanagrams1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3288/
+[groupanagrams2]: ./April/GroupAnagrams/solution.cpp
+[groupanagrams3]: ./April/GroupAnagrams/improved.cpp
