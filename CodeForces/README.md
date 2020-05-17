@@ -10,13 +10,20 @@
 | [Bit++][bit++1]                        | [solution.cpp][bit++2]           | 05/15/2020  |
 | [Domino Piling][dominopiling1]         | [solution.cpp][dominopiling2]    | 05/15/2020  |
 
-# Div 3 Problems
+## Div 3 Problems
 
 | Problem                               | Solution                       | Date Solved |
 | ------------------------------------- | ------------------------------ | ----------- |
 | [Most Unstable Array][unstablearray1] | [solution.cpp][unstablearray2] | 05/16/2020  |
 | [Two Arrays and Swaps][twoarrays1]    | [solution.cpp][twoarrays2]     | 05/16/2020  |
 | [Board Moves][boardmoves1]            | [solution.cpp][boardmoves2]    | 05/16/2020  |
+
+## Div 2 Problems
+
+| Problem                                 | Solution                        | Date Solved |
+| --------------------------------------- | ------------------------------- | ----------- |
+| [Sequence With Digits][sequencedigits1] | [solution.cpp][sequencedigits2] | 05/17/2020  |
+| [Young Explorers][youngexplorers1]      | [solution.cpp][youngexplorers2] | 05/17/2020  |
 
 [watermelon1]: https://codeforces.com/problemset/problem/4/A
 [watermelon2]: ./Watermelon/solution.cpp
@@ -34,3 +41,7 @@
 [twoarrays2]: ./TwoArraysAndSwaps/solution.cpp
 [boardmoves1]: https://codeforces.com/contest/1353/problem/C
 [boardmoves2]: ./BoardMoves/solution.cpp
+[sequencedigits1]: https://codeforces.com/contest/1355/problem/A
+[sequencedigits2]: ./SequenceWithDigits/solution.cpp
+[youngexplorers1]: https://codeforces.com/contest/1355/problem/B
+[youngexplorers2]: ./YoungExplorers/solution.cpp
