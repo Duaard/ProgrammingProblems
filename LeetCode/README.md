@@ -23,6 +23,7 @@
 | [Best Time to Buy and Sell Stock II][buysellstock1] | [solution.cpp][buysellstocks2] | [improved.cpp][buysellstocks3] | 05/15/2020  |
 | [Group Anagrams][groupanagrams1]                    | [solution.cpp][groupanagrams2] | [imrpoved.cpp][groupanagrams3] | 05/16/2020  |
 | [Middle of the Linked List][middlell1]              | [solution.cpp][middlell2]      | [improved.cpp][middlell3]      | 05/18/2020  |
+| [Backspace String Compare][stringcompare1]          | [solution.cpp][stringcompare2] |                                | 05/19/2020  |
 
 [singlenumber1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/
 [singlenumber2]: ./April/SingleNumber/solution.py
@@ -49,3 +50,5 @@
 [middlell1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3290/
 [middlell2]: ./April/MiddleOfLinkedList/solution.cpp
 [middlell3]: ./April/MiddleOfLinkedList/improved.cpp
+[stringcompare1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3291/
+[stringcompare2]: ./April/BackspaceStringCompare/solution.cpp
