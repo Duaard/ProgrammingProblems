@@ -24,6 +24,7 @@
 | [Group Anagrams][groupanagrams1]                    | [solution.cpp][groupanagrams2] | [imrpoved.cpp][groupanagrams3] | 05/16/2020  |
 | [Middle of the Linked List][middlell1]              | [solution.cpp][middlell2]      | [improved.cpp][middlell3]      | 05/18/2020  |
 | [Backspace String Compare][stringcompare1]          | [solution.cpp][stringcompare2] |                                | 05/19/2020  |
+| [Min Stack][minstack1]                              | [solution.cpp][minstack2]      |                                | 05/21/2020  |
 
 [singlenumber1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/
 [singlenumber2]: ./April/SingleNumber/solution.py
@@ -52,3 +53,5 @@
 [middlell3]: ./April/MiddleOfLinkedList/improved.cpp
 [stringcompare1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3291/
 [stringcompare2]: ./April/BackspaceStringCompare/solution.cpp
+[minstack1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3292/
+[minstack2]: ./April/MinStack/solution.cpp
