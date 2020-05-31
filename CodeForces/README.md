@@ -21,6 +21,7 @@
 | [Honest Coach][honestcoach1]          | [solution.cpp][honestcoach2]   | 05/29/2020  |
 | [Similar Pairs][similarpairs1]        | [solution.cpp][similarpairs2]  | 05/31/2020  |
 | [Buying Shovels][buyingshovels1]      | [solution.cpp][buyingshovels2] | 05/31/2020  |
+| [Polygon][polygon1]                   | [solution.cpp][polygon2]       | 05/31/2020  |
 
 ## Div 2 Problems
 
@@ -57,3 +58,5 @@
 [similarpairs2]: ./SimilarPairs/solution.cpp
 [buyingshovels1]: https://codeforces.com/contest/1360/problem/D
 [buyingshovels2]: ./BuyingShovels/solution.cpp
+[polygon1]: https://codeforces.com/contest/1360/problem/E
+[polygon2]: ./Polygon/solution.cpp
