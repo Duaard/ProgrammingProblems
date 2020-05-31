@@ -17,6 +17,10 @@
 | [Most Unstable Array][unstablearray1] | [solution.cpp][unstablearray2] | 05/16/2020  |
 | [Two Arrays and Swaps][twoarrays1]    | [solution.cpp][twoarrays2]     | 05/16/2020  |
 | [Board Moves][boardmoves1]            | [solution.cpp][boardmoves2]    | 05/16/2020  |
+| [Minimal Square][minimalsquare1]      | [solution.cpp][minimalsquare2] | 05/29/2020  |
+| [Honest Coach][honestcoach1]          | [solution.cpp][honestcoach2]   | 05/29/2020  |
+| [Similar Pairs][similarpairs1]        | [solution.cpp][similarpairs2]  | 05/31/2020  |
+| [Buying Shovels][buyingshovels1]      | [solution.cpp][buyingshovels2] | 05/31/2020  |
 
 ## Div 2 Problems
 
@@ -45,3 +49,11 @@
 [sequencedigits2]: ./SequenceWithDigits/solution.cpp
 [youngexplorers1]: https://codeforces.com/contest/1355/problem/B
 [youngexplorers2]: ./YoungExplorers/solution.cpp
+[minimalsquare1]: https://codeforces.com/contest/1360/problem/A
+[minimalsquare2]: ./MinimalSquare/solution.cpp
+[honestcoach1]: https://codeforces.com/contest/1360/problem/B
+[honestcoach2]: ./HonestCoach/solution.cpp
+[similarpairs1]: https://codeforces.com/contest/1360/problem/C
+[similarpairs2]: ./SimilarPairs/solution.cpp
+[buyingshovels1]: https://codeforces.com/contest/1360/problem/D
+[buyingshovels2]: ./BuyingShovels/solution.cpp
