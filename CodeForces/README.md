@@ -22,6 +22,7 @@
 | [Similar Pairs][similarpairs1]        | [solution.cpp][similarpairs2]  | 05/31/2020  |
 | [Buying Shovels][buyingshovels1]      | [solution.cpp][buyingshovels2] | 05/31/2020  |
 | [Polygon][polygon1]                   | [solution.cpp][polygon2]       | 05/31/2020  |
+| [Spy-string][spystring1]              | [solution.cpp][spystring2]     | 06/06/2020  |
 
 ## Div 2 Problems
 
@@ -60,3 +61,5 @@
 [buyingshovels2]: ./BuyingShovels/solution.cpp
 [polygon1]: https://codeforces.com/contest/1360/problem/E
 [polygon2]: ./Polygon/solution.cpp
+[spystring1]: https://codeforces.com/contest/1360/problem/F
+[spystring2]: ./SpyString/solution.cpp
