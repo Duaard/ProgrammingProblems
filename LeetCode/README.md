@@ -28,6 +28,8 @@
 | [Diameter of Binary Tree][diameterbinarytree1]      | [solution.cpp][diameterbinarytree2] |                                  | 05/22/2020  |
 | [Last Stone Weight][laststoneweight1]               | [solution.cpp][laststoneweight2]    | [improved.cpp][laststoneweight3] | 05/23/2020  |
 | [Product of Array Except Self][prodarray1]          | [solution.cpp][prodarray2]          |                                  | 06/16/2020  |
+| [Valid Parenthesis String][parenthesisstring1]      | [solution.cpp][parenthesisstring2]  |                                  | 06/22/2020  |
+| [Number of Islands][numberofislands1]               | [solution.cpp][numberofislands2]    |                                  | 06/22/2020  |
 
 [singlenumber1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/
 [singlenumber2]: ./April/SingleNumber/solution.py
@@ -65,3 +67,7 @@
 [laststoneweight3]: ./April/LastStoneWeight/improved.cpp
 [prodarray1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3300/
 [prodarray2]: ./April/ProductOfArrayExceptSelf/solution.cpp
+[parenthesisstring1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3301/
+[parenthesisstring2]: ./April/ValidParenthesisString/solution.cpp
+[numberofislands1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3302/
+[numberofislands2]: ./April/NumberOfIslands/solution.cpp
