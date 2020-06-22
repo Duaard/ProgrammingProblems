@@ -14,22 +14,22 @@
 
 ## April - 30 Day Challenge
 
-| Problem                                             | Initial Solution                    | Improved Solution                | Date Solved |
-| --------------------------------------------------- | ----------------------------------- | -------------------------------- | ----------- |
-| [Single Number][singlenumber1]                      | [solution.py][singlenumber2]        | [solution.cpp][singlenumber3]    | 05/10//2020 |
-| [Happy Number][happynumber1]                        | [solution.py][happynumber2]         | [solution.cpp][happynumber3]     | 05/11/2020  |
-| [Maximum Subarray][maxsubarray1]                    | [solution.py][maxsubarray2]         | [solution.cpp][maxsubarray3]     | 05/12/2020  |
-| [Move Zeroes][movezeroes1]                          | [solution.py][movezeroes2]          | [solution.cpp][movezeroes3]      | 05/14/2020  |
-| [Best Time to Buy and Sell Stock II][buysellstock1] | [solution.cpp][buysellstocks2]      | [improved.cpp][buysellstocks3]   | 05/15/2020  |
-| [Group Anagrams][groupanagrams1]                    | [solution.cpp][groupanagrams2]      | [imrpoved.cpp][groupanagrams3]   | 05/16/2020  |
-| [Middle of the Linked List][middlell1]              | [solution.cpp][middlell2]           | [improved.cpp][middlell3]        | 05/18/2020  |
-| [Backspace String Compare][stringcompare1]          | [solution.cpp][stringcompare2]      |                                  | 05/19/2020  |
-| [Min Stack][minstack1]                              | [solution.cpp][minstack2]           |                                  | 05/21/2020  |
-| [Diameter of Binary Tree][diameterbinarytree1]      | [solution.cpp][diameterbinarytree2] |                                  | 05/22/2020  |
-| [Last Stone Weight][laststoneweight1]               | [solution.cpp][laststoneweight2]    | [improved.cpp][laststoneweight3] | 05/23/2020  |
-| [Product of Array Except Self][prodarray1]          | [solution.cpp][prodarray2]          |                                  | 06/16/2020  |
-| [Valid Parenthesis String][parenthesisstring1]      | [solution.cpp][parenthesisstring2]  |                                  | 06/22/2020  |
-| [Number of Islands][numberofislands1]               | [solution.cpp][numberofislands2]    |                                  | 06/22/2020  |
+| Problem                                              | Initial Solution                    | Improved Solution                | Date Solved |
+| ---------------------------------------------------- | ----------------------------------- | -------------------------------- | ----------- |
+| [Single Number][singlenumber1]                       | [solution.py][singlenumber2]        | [solution.cpp][singlenumber3]    | 05/10//2020 |
+| [Happy Number][happynumber1]                         | [solution.py][happynumber2]         | [solution.cpp][happynumber3]     | 05/11/2020  |
+| [Maximum Subarray][maxsubarray1]                     | [solution.py][maxsubarray2]         | [solution.cpp][maxsubarray3]     | 05/12/2020  |
+| [Move Zeroes][movezeroes1]                           | [solution.py][movezeroes2]          | [solution.cpp][movezeroes3]      | 05/14/2020  |
+| [Best Time to Buy and Sell Stock II][buysellstocks1] | [solution.cpp][buysellstocks2]      | [improved.cpp][buysellstocks3]   | 05/15/2020  |
+| [Group Anagrams][groupanagrams1]                     | [solution.cpp][groupanagrams2]      | [imrpoved.cpp][groupanagrams3]   | 05/16/2020  |
+| [Middle of the Linked List][middlell1]               | [solution.cpp][middlell2]           | [improved.cpp][middlell3]        | 05/18/2020  |
+| [Backspace String Compare][stringcompare1]           | [solution.cpp][stringcompare2]      |                                  | 05/19/2020  |
+| [Min Stack][minstack1]                               | [solution.cpp][minstack2]           |                                  | 05/21/2020  |
+| [Diameter of Binary Tree][diameterbinarytree1]       | [solution.cpp][diameterbinarytree2] |                                  | 05/22/2020  |
+| [Last Stone Weight][laststoneweight1]                | [solution.cpp][laststoneweight2]    | [improved.cpp][laststoneweight3] | 05/23/2020  |
+| [Product of Array Except Self][prodarray1]           | [solution.cpp][prodarray2]          |                                  | 06/16/2020  |
+| [Valid Parenthesis String][parenthesisstring1]       | [solution.cpp][parenthesisstring2]  |                                  | 06/22/2020  |
+| [Number of Islands][numberofislands1]                | [solution.cpp][numberofislands2]    |                                  | 06/22/2020  |
 
 [singlenumber1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/
 [singlenumber2]: ./April/SingleNumber/solution.py
