@@ -31,6 +31,7 @@
 | [Valid Parenthesis String][parenthesisstring1]       | [solution.cpp][parenthesisstring2]  |                                  | 06/22/2020  |
 | [Number of Islands][numberofislands1]                | [solution.cpp][numberofislands2]    |                                  | 06/22/2020  |
 | [Minimum Path Sum][minpathsum1]                      | [solution.cpp][minpathsum2]         |                                  | 06/23/2020  |
+| [Search in Rotated Sorted Array][rotatedarr1]        | [solution.cpp][rotatedarr2]         |                                  | 06/27/2020  |
 
 [singlenumber1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/
 [singlenumber2]: ./April/SingleNumber/solution.py
@@ -74,3 +75,5 @@
 [numberofislands2]: ./April/NumberOfIslands/solution.cpp
 [minpathsum1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3303/
 [minpathsum2]: ./April/MinimumPathSum/solution.cpp
+[rotatedarr1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3304/
+[rotatedarr2]: ./April/SearchInRotatedSortedArray/solution.cpp
