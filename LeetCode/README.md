@@ -33,6 +33,7 @@
 | [Minimum Path Sum][minpathsum1]                              | [solution.cpp][minpathsum2]         |                                  | 06/23/2020  |
 | [Search in Rotated Sorted Array][rotatedarr1]                | [solution.cpp][rotatedarr2]         |                                  | 06/27/2020  |
 | [Construct Binary Search Tree from Preorder Traversal][bst1] | [solution.cpp][bst2]                |                                  | 07/02/2020  |
+| [Subarray Sum Equals K][subarray1]                           | [solution.cpp][subarray2]           |                                  | 07/03/2020  |
 
 [singlenumber1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/
 [singlenumber2]: ./April/SingleNumber/solution.py
@@ -80,3 +81,5 @@
 [rotatedarr2]: ./April/SearchInRotatedSortedArray/solution.cpp
 [bst1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3305/
 [bst2]: ./April/BinarySearchTree/solution.cpp
+[subarray1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3307/
+[sbuarray2]: ./April/SubarraySumEqualsK/solution.cpp
