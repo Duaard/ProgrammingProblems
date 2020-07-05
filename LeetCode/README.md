@@ -8,9 +8,10 @@
 
 ## Medium
 
-| Problem                           | Solution                       | Date Solved |
-| --------------------------------- | ------------------------------ | ----------- |
-| [Add Two Numbers][addtwonumbers1] | [solution.cpp][addtwonumbers2] | 05/15/2020  |
+| Problem                                 | Solution                       | Date Solved |
+| --------------------------------------- | ------------------------------ | ----------- |
+| [Add Two Numbers][addtwonumbers1]       | [solution.cpp][addtwonumbers2] | 05/15/2020  |
+| [Continuous Subarray Sum][subarraysum1] | [solution.cpp][subarraysum2]   | 07/05/2020  |
 
 ## April - 30 Day Challenge
 
@@ -82,4 +83,6 @@
 [bst1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3305/
 [bst2]: ./April/BinarySearchTree/solution.cpp
 [subarray1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3307/
-[sbuarray2]: ./April/SubarraySumEqualsK/solution.cpp
+[subarray2]: ./April/SubarraySumEqualsK/solution.cpp
+[subarraysum1]: https://leetcode.com/problems/continuous-subarray-sum/
+[subarraysum2]: ./Medium/ContinousSubarraySum/solution.cpp
