@@ -35,6 +35,7 @@
 | [Search in Rotated Sorted Array][rotatedarr1]                | [solution.cpp][rotatedarr2]         |                                  | 06/27/2020  |
 | [Construct Binary Search Tree from Preorder Traversal][bst1] | [solution.cpp][bst2]                |                                  | 07/02/2020  |
 | [Subarray Sum Equals K][subarray1]                           | [solution.cpp][subarray2]           |                                  | 07/03/2020  |
+| [Bitwise AND of Numbers Range][bitwiseand1]                  | [solution.cpp][bitwiseand2]         | [improved.cpp][bitwiseand3]      | 07/06/2020  |
 
 [singlenumber1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/
 [singlenumber2]: ./April/SingleNumber/solution.py
@@ -86,3 +87,6 @@
 [subarray2]: ./April/SubarraySumEqualsK/solution.cpp
 [subarraysum1]: https://leetcode.com/problems/continuous-subarray-sum/
 [subarraysum2]: ./Medium/ContinousSubarraySum/solution.cpp
+[bitwiseand1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3308/
+[bitwiseand2]: ./April/BitwiseAnd/solution.cpp
+[bitwiseand3]: ./April/BitwiseAnd/improved.cpp
