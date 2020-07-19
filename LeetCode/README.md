@@ -13,6 +13,7 @@
 | --------------------------------------- | ------------------------------ | ----------- |
 | [Add Two Numbers][addtwonumbers1]       | [solution.cpp][addtwonumbers2] | 05/15/2020  |
 | [Continuous Subarray Sum][subarraysum1] | [solution.cpp][subarraysum2]   | 07/05/2020  |
+| [Coin Change 2][coinchange1]            | [solution.cpp][coinchange2]    | 07/19/2020  |
 
 ## April - 30 Day Challenge
 
