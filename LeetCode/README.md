@@ -2,9 +2,10 @@
 
 ## Easy
 
-| Problem            | Solution                | Date Solved |
-| ------------------ | ----------------------- | ----------- |
-| [Two Sum][twosum1] | [solution.cpp][twosum2] | 05/12/2020  |
+| Problem                 | Solution                | Date Solved |
+| ----------------------- | ----------------------- | ----------- |
+| [Two Sum][twosum1]      | [solution.cpp][twosum2] | 05/12/2020  |
+| [House Robber][robber1] | [solution.cpp][robber2] | 07/19/2020  |
 
 ## Medium
 
@@ -36,6 +37,7 @@
 | [Construct Binary Search Tree from Preorder Traversal][bst1] | [solution.cpp][bst2]                |                                  | 07/02/2020  |
 | [Subarray Sum Equals K][subarray1]                           | [solution.cpp][subarray2]           |                                  | 07/03/2020  |
 | [Bitwise AND of Numbers Range][bitwiseand1]                  | [solution.cpp][bitwiseand2]         | [improved.cpp][bitwiseand3]      | 07/06/2020  |
+| [LRU Cache][lrucache1]                                       | [solution.cpp][lrucache2]           |                                  | 07/07/2020  |
 
 [singlenumber1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/
 [singlenumber2]: ./April/SingleNumber/solution.py
@@ -90,3 +92,9 @@
 [bitwiseand1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3308/
 [bitwiseand2]: ./April/BitwiseAnd/solution.cpp
 [bitwiseand3]: ./April/BitwiseAnd/improved.cpp
+[lrucache1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3309/
+[lrucache2]: ./April/LRUCache/solution.cpp
+[robber1]: https://leetcode.com/problems/house-robber/
+[robber2]: ./Easy/HouseRobber/solution.cpp
+[coinchange1]: https://leetcode.com/problems/coin-change-2/
+[coinchange2]: ./Medium/CoinChange2/solution.cpp
