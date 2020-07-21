@@ -14,6 +14,7 @@
 | [Add Two Numbers][addtwonumbers1]       | [solution.cpp][addtwonumbers2] | 05/15/2020  |
 | [Continuous Subarray Sum][subarraysum1] | [solution.cpp][subarraysum2]   | 07/05/2020  |
 | [Coin Change 2][coinchange1]            | [solution.cpp][coinchange2]    | 07/19/2020  |
+| [Stone Game][stonegame1]                | [solution.cpp][stonegame2]     | 07/21/2020  |
 
 ## April - 30 Day Challenge
 
@@ -99,3 +100,5 @@
 [robber2]: ./Easy/HouseRobber/solution.cpp
 [coinchange1]: https://leetcode.com/problems/coin-change-2/
 [coinchange2]: ./Medium/CoinChange2/solution.cpp
+[stonegame1]: https://leetcode.com/problems/stone-game
+[stonegame2]: ./Medium/StoneGame/solution.cpp
