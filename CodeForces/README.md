@@ -11,6 +11,12 @@
 | [Domino Piling][dominopiling1]         | [solution.cpp][dominopiling2]    | 05/15/2020  |
 | [Common Subsequence][subsequence1]     | [solution.cpp][subsequence2]     | 07/24/2020  |
 
+## 1100
+
+| Problem                          | Solution                       | Date Solved |
+| -------------------------------- | ------------------------------ | ----------- |
+| [Sequential Nim][sequentialnim1] | [solution.cpp][sequentialnim2] | 07/24/2020  |
+
 ## Div 3 Problems
 
 | Problem                               | Solution                       | Date Solved |
@@ -66,3 +72,5 @@
 [spystring2]: ./SpyString/solution.cpp
 [subsequence1]: https://codeforces.com/contest/1382/problem/A
 [subsequence2]: ./CommonSubsequence/solution.cpp
+[sequentialnim1]: https://codeforces.com/contest/1382/problem/B
+[sequentialnim2]: ./SequentialNim/solution.cpp
