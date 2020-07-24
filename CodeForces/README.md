@@ -9,6 +9,7 @@
 | [Next Round][nextround1]               | [solution.cpp][nextround2]       | 05/14/2020  |
 | [Bit++][bit++1]                        | [solution.cpp][bit++2]           | 05/15/2020  |
 | [Domino Piling][dominopiling1]         | [solution.cpp][dominopiling2]    | 05/15/2020  |
+| [Common Subsequence][subsequence1]     | [solution.cpp][subsequence2]     | 07/24/2020  |
 
 ## Div 3 Problems
 
@@ -63,3 +64,5 @@
 [polygon2]: ./Polygon/solution.cpp
 [spystring1]: https://codeforces.com/contest/1360/problem/F
 [spystring2]: ./SpyString/solution.cpp
+[subsequence1]: https://codeforces.com/contest/1382/problem/A
+[subsequence2]: ./CommonSubsequence/solution.cpp
