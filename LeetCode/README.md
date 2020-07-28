@@ -2,88 +2,83 @@
 
 ## Easy
 
-| Problem                 | Solution                | Date Solved |
-| ----------------------- | ----------------------- | ----------- |
-| [Two Sum][twosum1]      | [solution.cpp][twosum2] | 05/12/2020  |
-| [House Robber][robber1] | [solution.cpp][robber2] | 07/19/2020  |
+| Problem                                              | Solution                            | Date Solved |
+| ---------------------------------------------------- | ----------------------------------- | ----------- |
+| [Single Number][singlenumber1]                       | [solution.cpp][singlenumber3]       | 05/10//2020 |
+| [Happy Number][happynumber1]                         | [solution.cpp][happynumber3]        | 05/11/2020  |
+| [Maximum Subarray][maxsubarray1]                     | [solution.cpp][maxsubarray3]        | 05/12/2020  |
+| [Two Sum][twosum1]                                   | [solution.cpp][twosum2]             | 05/12/2020  |
+| [Move Zeroes][movezeroes1]                           | [solution.cpp][movezeroes3]         | 05/14/2020  |
+| [Best Time to Buy and Sell Stock II][buysellstocks1] | [improved.cpp][buysellstocks3]      | 05/15/2020  |
+| [Middle of the Linked List][middlell1]               | [improved.cpp][middlell3]           | 05/18/2020  |
+| [Backspace String Compare][stringcompare1]           | [solution.cpp][stringcompare2]      | 05/19/2020  |
+| [Min Stack][minstack1]                               | [solution.cpp][minstack2]           | 05/21/2020  |
+| [Diameter of Binary Tree][diameterbinarytree1]       | [solution.cpp][diameterbinarytree2] | 05/22/2020  |
+| [Last Stone Weight][laststoneweight1]                | [improved.cpp][laststoneweight3]    | 05/23/2020  |
+| [House Robber][robber1]                              | [solution.cpp][robber2]             | 07/19/2020  |
 
 ## Medium
 
-| Problem                                                      | Solution                       | Date Solved |
-| ------------------------------------------------------------ | ------------------------------ | ----------- |
-| [Add Two Numbers][addtwonumbers1]                            | [solution.cpp][addtwonumbers2] | 05/15/2020  |
-| [Search in Rotated Sorted Array][rotatedarr1]                | [solution.cpp][rotatedarr2]    | 06/27/2020  |
-| [Construct Binary Search Tree from Preorder Traversal][bst1] | [solution.cpp][bst2]           | 07/02/2020  |
-| [Subarray Sum Equals K][subarray1]                           | [solution.cpp][subarray2]      | 07/03/2020  |
-| [Continuous Subarray Sum][subarraysum1]                      | [solution.cpp][subarraysum2]   | 07/05/2020  |
-| [Bitwise AND of Numbers Range][bitwiseand1]                  | [solution.cpp][bitwiseand2]    | 07/06/2020  |
-| [LRU Cache][lrucache1]                                       | [solution.cpp][lrucache2]      | 07/07/2020  |
-| [Coin Change 2][coinchange1]                                 | [solution.cpp][coinchange2]    | 07/19/2020  |
-| [Stone Game][stonegame1]                                     | [solution.cpp][stonegame2]     | 07/21/2020  |
-| [Jump Game][jumpgame1]                                       | [solution.cpp][jumpgame2]      | 07/23/2020  |
+| Problem                                                      | Solution                           | Date Solved |
+| ------------------------------------------------------------ | ---------------------------------- | ----------- |
+| [Add Two Numbers][addtwonumbers1]                            | [solution.cpp][addtwonumbers2]     | 05/15/2020  |
+| [Group Anagrams][groupanagrams1]                             | [improved.cpp][groupanagrams3]     | 05/16/2020  |
+| [Product of Array Except Self][prodarray1]                   | [solution.cpp][prodarray2]         | 06/16/2020  |
+| [Valid Parenthesis String][parenthesisstring1]               | [solution.cpp][parenthesisstring2] | 06/22/2020  |
+| [Number of Islands][numberofislands1]                        | [solution.cpp][numberofislands2]   | 06/22/2020  |
+| [Minimum Path Sum][minpathsum1]                              | [solution.cpp][minpathsum2]        | 06/23/2020  |
+| [Search in Rotated Sorted Array][rotatedarr1]                | [solution.cpp][rotatedarr2]        | 06/27/2020  |
+| [Construct Binary Search Tree from Preorder Traversal][bst1] | [solution.cpp][bst2]               | 07/02/2020  |
+| [Subarray Sum Equals K][subarray1]                           | [solution.cpp][subarray2]          | 07/03/2020  |
+| [Continuous Subarray Sum][subarraysum1]                      | [solution.cpp][subarraysum2]       | 07/05/2020  |
+| [Bitwise AND of Numbers Range][bitwiseand1]                  | [solution.cpp][bitwiseand2]        | 07/06/2020  |
+| [LRU Cache][lrucache1]                                       | [solution.cpp][lrucache2]          | 07/07/2020  |
+| [Coin Change 2][coinchange1]                                 | [solution.cpp][coinchange2]        | 07/19/2020  |
+| [Stone Game][stonegame1]                                     | [solution.cpp][stonegame2]         | 07/21/2020  |
+| [Jump Game][jumpgame1]                                       | [solution.cpp][jumpgame2]          | 07/23/2020  |
 
-## April - 30 Day Challenge
-
-| Problem                                              | Initial Solution                    | Improved Solution                | Date Solved |
-| ---------------------------------------------------- | ----------------------------------- | -------------------------------- | ----------- |
-| [Single Number][singlenumber1]                       | [solution.py][singlenumber2]        | [solution.cpp][singlenumber3]    | 05/10//2020 |
-| [Happy Number][happynumber1]                         | [solution.py][happynumber2]         | [solution.cpp][happynumber3]     | 05/11/2020  |
-| [Maximum Subarray][maxsubarray1]                     | [solution.py][maxsubarray2]         | [solution.cpp][maxsubarray3]     | 05/12/2020  |
-| [Move Zeroes][movezeroes1]                           | [solution.py][movezeroes2]          | [solution.cpp][movezeroes3]      | 05/14/2020  |
-| [Best Time to Buy and Sell Stock II][buysellstocks1] | [solution.cpp][buysellstocks2]      | [improved.cpp][buysellstocks3]   | 05/15/2020  |
-| [Group Anagrams][groupanagrams1]                     | [solution.cpp][groupanagrams2]      | [imrpoved.cpp][groupanagrams3]   | 05/16/2020  |
-| [Middle of the Linked List][middlell1]               | [solution.cpp][middlell2]           | [improved.cpp][middlell3]        | 05/18/2020  |
-| [Backspace String Compare][stringcompare1]           | [solution.cpp][stringcompare2]      |                                  | 05/19/2020  |
-| [Min Stack][minstack1]                               | [solution.cpp][minstack2]           |                                  | 05/21/2020  |
-| [Diameter of Binary Tree][diameterbinarytree1]       | [solution.cpp][diameterbinarytree2] |                                  | 05/22/2020  |
-| [Last Stone Weight][laststoneweight1]                | [solution.cpp][laststoneweight2]    | [improved.cpp][laststoneweight3] | 05/23/2020  |
-| [Product of Array Except Self][prodarray1]           | [solution.cpp][prodarray2]          |                                  | 06/16/2020  |
-| [Valid Parenthesis String][parenthesisstring1]       | [solution.cpp][parenthesisstring2]  |                                  | 06/22/2020  |
-| [Number of Islands][numberofislands1]                | [solution.cpp][numberofislands2]    |                                  | 06/22/2020  |
-| [Minimum Path Sum][minpathsum1]                      | [solution.cpp][minpathsum2]         |                                  | 06/23/2020  |
-
-[singlenumber1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/
-[singlenumber2]: ./April/SingleNumber/solution.py
-[singlenumber3]: ./April/SingleNumber/solution.cpp
-[happynumber1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3284/
-[happynumber2]: ./April/HappyNumber/solution.py
-[happynumber3]: ./April/HappyNumber/solution.cpp
+[singlenumber1]: https://leetcode.com/problems/single-number/
+[singlenumber2]: ./Easy/SingleNumber/solution.py
+[singlenumber3]: ./Easy/SingleNumber/solution.cpp
+[happynumber1]: https://leetcode.com/problems/happy-number/
+[happynumber2]: ./Easy/HappyNumber/solution.py
+[happynumber3]: ./Easy/HappyNumber/solution.cpp
 [twosum1]: https://leetcode.com/problems/two-sum/
 [twosum2]: ./Easy/TwoSum/solution.cpp
-[maxsubarray1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3285/
-[maxsubarray2]: ./April/MaxSubarray/solution.py
-[maxsubarray3]: ./April/MaxSubarray/solution.cpp
-[movezeroes1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3286/
-[movezeroes2]: ./April/MoveZeroes/solution.py
-[movezeroes3]: ./April/MoveZeroes/solution.cpp
+[maxsubarray1]: https://leetcode.com/problems/maximum-subarray/
+[maxsubarray2]: ./Easy/MaxSubarray/solution.py
+[maxsubarray3]: ./Easy/MaxSubarray/solution.cpp
+[movezeroes1]: https://leetcode.com/problems/move-zeroes/
+[movezeroes2]: ./Easy/MoveZeroes/solution.py
+[movezeroes3]: ./Easy/MoveZeroes/solution.cpp
 [addtwonumbers1]: https://leetcode.com/problems/add-two-numbers/
 [addtwonumbers2]: ./Medium/AddTwoNumbers/solution.cpp
-[buysellstocks1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3287/
-[buysellstocks2]: ./April/BuyAndSellStocks/solution.cpp
-[buysellstocks3]: ./April/BuyAndSellStocks/improved.cpp
-[groupanagrams1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3288/
-[groupanagrams2]: ./April/GroupAnagrams/solution.cpp
-[groupanagrams3]: ./April/GroupAnagrams/improved.cpp
-[middlell1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3290/
-[middlell2]: ./April/MiddleOfLinkedList/solution.cpp
-[middlell3]: ./April/MiddleOfLinkedList/improved.cpp
-[stringcompare1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3291/
-[stringcompare2]: ./April/BackspaceStringCompare/solution.cpp
-[minstack1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3292/
-[minstack2]: ./April/MinStack/solution.cpp
-[diameterbinarytree1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3293/
-[diameterbinarytree2]: ./April/DiameterOfBinaryTree/solution.cpp
-[laststoneweight1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3297/
-[laststoneweight2]: ./April/LastStoneWeight/solution.cpp
-[laststoneweight3]: ./April/LastStoneWeight/improved.cpp
-[prodarray1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3300/
-[prodarray2]: ./April/ProductOfArrayExceptSelf/solution.cpp
-[parenthesisstring1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3301/
-[parenthesisstring2]: ./April/ValidParenthesisString/solution.cpp
-[numberofislands1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3302/
-[numberofislands2]: ./April/NumberOfIslands/solution.cpp
-[minpathsum1]: https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3303/
-[minpathsum2]: ./April/MinimumPathSum/solution.cpp
+[buysellstocks1]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+[buysellstocks2]: ./Easy/BuyAndSellStocks/solution.cpp
+[buysellstocks3]: ./Easy/BuyAndSellStocks/improved.cpp
+[groupanagrams1]: https://leetcode.com/problems/group-anagrams/
+[groupanagrams2]: ./Medium/GroupAnagrams/solution.cpp
+[groupanagrams3]: ./Medium/GroupAnagrams/improved.cpp
+[middlell1]: https://leetcode.com/problems/middle-of-the-linked-list/
+[middlell2]: ./Easy/MiddleOfLinkedList/solution.cpp
+[middlell3]: ./Easy/MiddleOfLinkedList/improved.cpp
+[stringcompare1]: https://leetcode.com/problems/backspace-string-compare/
+[stringcompare2]: ./Easy/BackspaceStringCompare/solution.cpp
+[minstack1]: https://leetcode.com/problems/min-stack/
+[minstack2]: ./Easy/MinStack/solution.cpp
+[diameterbinarytree1]: https://leetcode.com/problems/diameter-of-binary-tree/
+[diameterbinarytree2]: ./Easy/DiameterOfBinaryTree/solution.cpp
+[laststoneweight1]: https://leetcode.com/problems/last-stone-weight/
+[laststoneweight2]: ./Easy/LastStoneWeight/solution.cpp
+[laststoneweight3]: ./Easy/LastStoneWeight/improved.cpp
+[prodarray1]: https://leetcode.com/problems/product-of-array-except-self/
+[prodarray2]: ./Medium/ProductOfArrayExceptSelf/solution.cpp
+[parenthesisstring1]: https://leetcode.com/problems/valid-parenthesis-string/
+[parenthesisstring2]: ./Medium/ValidParenthesisString/solution.cpp
+[numberofislands1]: https://leetcode.com/problems/number-of-islands/
+[numberofislands2]: ./Medium/NumberOfIslands/solution.cpp
+[minpathsum1]: https://leetcode.com/problems/minimum-path-sum/
+[minpathsum2]: ./Medium/MinimumPathSum/solution.cpp
 [rotatedarr1]: https://leetcode.com/problems/search-in-rotated-sorted-array/
 [rotatedarr2]: ./Medium/SearchInRotatedSortedArray/solution.cpp
 [bst1]: https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
