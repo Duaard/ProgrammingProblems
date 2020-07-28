@@ -37,6 +37,8 @@
 | --------------------------------------- | ------------------------------- | ----------- |
 | [Sequence With Digits][sequencedigits1] | [solution.cpp][sequencedigits2] | 05/17/2020  |
 | [Young Explorers][youngexplorers1]      | [solution.cpp][youngexplorers2] | 05/17/2020  |
+| [Common Prefixes][commonprefixes1]      | [solution.cpp][commonprefixes2] | 07/25/2020  |
+| [Mastermind][mastermind1]               | [solution.cpp][mastermind2]     | 07/28/2020  |
 
 [watermelon1]: https://codeforces.com/problemset/problem/4/A
 [watermelon2]: ./Watermelon/solution.cpp
@@ -74,3 +76,7 @@
 [subsequence2]: ./CommonSubsequence/solution.cpp
 [sequentialnim1]: https://codeforces.com/contest/1382/problem/B
 [sequentialnim2]: ./SequentialNim/solution.cpp
+[commonprefixes1]: https://codeforces.com/contest/1384/problem/A
+[commonprefixes2]: ./CommonPrefixes/solution.cpp
+[mastermind1]: https://codeforces.com/contest/1382/problem/E
+[mastermind2]: ./Mastermind/solution.cpp
