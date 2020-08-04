@@ -8,23 +8,13 @@ void solve()
 
     cin >> l >> r;
 
-    while (true)
+    if (2l > r)
     {
-        if (r % l == 0)
-        {
-            cout << l << " " << r << "\n";
-            break;
-        }
-        else
-        {
-            r -= r % l;
-        }
-
-        if (r <= l)
-        {
-            cout << "-1 -1\n";
-            break;
-        }
+        cout << "-1 -1\n";
+    }
+    else
+    {
+        cout << l << " " << 2l << "\n";
     }
 }
 
