@@ -40,6 +40,7 @@
 | [Common Prefixes][commonprefixes1]           | [solution.cpp][commonprefixes2] | 07/25/2020  |
 | [Mastermind][mastermind1]                    | [solution.cpp][mastermind2]     | 07/28/2020  |
 | [Koa and the Beach (Hard Version)][koahard1] | [solution.cpp][koahard2]        | 08/03/2020  |
+| [LCM Problem][lcm1]                          | [solution.cpp][lcm2]            | 08/04/2020  |
 
 [watermelon1]: https://codeforces.com/problemset/problem/4/A
 [watermelon2]: ./Watermelon/solution.cpp
@@ -83,3 +84,5 @@
 [mastermind2]: ./Mastermind/solution.cpp
 [koahard1]: https://codeforces.com/contest/1384/problem/B2
 [koahard2]: ./KoaAndTheBeachHard/solution.cpp
+[lcm1]: https://codeforces.com/contest/1389/problem/A
+[lcm2]: ./LCMProblem/solution.cpp
