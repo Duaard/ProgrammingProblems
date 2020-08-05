@@ -42,6 +42,7 @@
 | [Koa and the Beach (Hard Version)][koahard1] | [solution.cpp][koahard2]        | 08/03/2020  |
 | [LCM Problem][lcm1]                          | [solution.cpp][lcm2]            | 08/04/2020  |
 | [Array Walk][arraywalk1]                     | [solution.cpp][arraywalk2]      | 08/04/2020  |
+| [Good String][goodstring1]                   | [solution.cpp][goodstring2]     | 08/05/2020  |
 
 [watermelon1]: https://codeforces.com/problemset/problem/4/A
 [watermelon2]: ./Watermelon/solution.cpp
@@ -89,3 +90,5 @@
 [lcm2]: ./LCMProblem/solution.cpp
 [arraywalk1]: https://codeforces.com/contest/1389/problem/B
 [arraywalk2]: ./ArrayWalk/solution.cpp
+[goodstring1]: https://codeforces.com/contest/1389/problem/C
+[goodstring2]: ./GoodString/solution.cpp
