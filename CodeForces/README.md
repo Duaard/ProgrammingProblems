@@ -30,7 +30,7 @@
 | [Buying Shovels][buyingshovels1]               | [solution.cpp][buyingshovels2]    | 05/31/2020  |
 | [Polygon][polygon1]                            | [solution.cpp][polygon2]          | 05/31/2020  |
 | [Spy-string][spystring1]                       | [solution.cpp][spystring2]        | 06/06/2020  |
-| [Three Pairwise Maximums][threepairwisemax1]   | [solution.cpp][threepairwise2]    | 08/05/2020  |
+| [Three Pairwise Maximums][threepairwisemax1]   | [solution.cpp][threepairwisemax2] | 08/05/2020  |
 | [Remove Smallest][removesmallest1]             | [solution.cpp][removesmallest2]   | 08/06/2020  |
 | [Gifts Fixing][giftsfixing1]                   | [solution.cpp][giftsfixing2]      | 08/06/2020  |
 | [Boats Competition][boatscompetition1]         | [solution.cpp][boatscompetition2] | 08/06/2020  |
