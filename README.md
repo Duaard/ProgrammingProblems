@@ -22,7 +22,7 @@ Total: 27
 
 ## [CodeForces][codeforces]
 
-Total: 27
+Total: 31
 
 [hackerrank]: ./HackerRank
 [hackerrank_easy]: ./HackerRank/Easy

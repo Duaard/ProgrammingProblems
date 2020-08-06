@@ -19,18 +19,22 @@
 
 ## Div 3 Problems
 
-| Problem                                      | Solution                       | Date Solved |
-| -------------------------------------------- | ------------------------------ | ----------- |
-| [Most Unstable Array][unstablearray1]        | [solution.cpp][unstablearray2] | 05/16/2020  |
-| [Two Arrays and Swaps][twoarrays1]           | [solution.cpp][twoarrays2]     | 05/16/2020  |
-| [Board Moves][boardmoves1]                   | [solution.cpp][boardmoves2]    | 05/16/2020  |
-| [Minimal Square][minimalsquare1]             | [solution.cpp][minimalsquare2] | 05/29/2020  |
-| [Honest Coach][honestcoach1]                 | [solution.cpp][honestcoach2]   | 05/29/2020  |
-| [Similar Pairs][similarpairs1]               | [solution.cpp][similarpairs2]  | 05/31/2020  |
-| [Buying Shovels][buyingshovels1]             | [solution.cpp][buyingshovels2] | 05/31/2020  |
-| [Polygon][polygon1]                          | [solution.cpp][polygon2]       | 05/31/2020  |
-| [Spy-string][spystring1]                     | [solution.cpp][spystring2]     | 06/06/2020  |
-| [Three Pairwise Maximums][threepairwisemax1] | [solution.cpp][threepairwise2] | 08/05/2020  |
+| Problem                                        | Solution                          | Date Solved |
+| ---------------------------------------------- | --------------------------------- | ----------- |
+| [Most Unstable Array][unstablearray1]          | [solution.cpp][unstablearray2]    | 05/16/2020  |
+| [Two Arrays and Swaps][twoarrays1]             | [solution.cpp][twoarrays2]        | 05/16/2020  |
+| [Board Moves][boardmoves1]                     | [solution.cpp][boardmoves2]       | 05/16/2020  |
+| [Minimal Square][minimalsquare1]               | [solution.cpp][minimalsquare2]    | 05/29/2020  |
+| [Honest Coach][honestcoach1]                   | [solution.cpp][honestcoach2]      | 05/29/2020  |
+| [Similar Pairs][similarpairs1]                 | [solution.cpp][similarpairs2]     | 05/31/2020  |
+| [Buying Shovels][buyingshovels1]               | [solution.cpp][buyingshovels2]    | 05/31/2020  |
+| [Polygon][polygon1]                            | [solution.cpp][polygon2]          | 05/31/2020  |
+| [Spy-string][spystring1]                       | [solution.cpp][spystring2]        | 06/06/2020  |
+| [Three Pairwise Maximums][threepairwisemax1]   | [solution.cpp][threepairwise2]    | 08/05/2020  |
+| [Remove Smallest][removesmallest1]             | [solution.cpp][removesmallest2]   | 08/06/2020  |
+| [Gifts Fixing][giftsfixing1]                   | [solution.cpp][giftsfixing2]      | 08/06/2020  |
+| [Boats Competition][boatscompetition1]         | [solution.cpp][boatscompetition2] | 08/06/2020  |
+| [Binary String To Subsequences][binarystring1] | [solution.cpp][binarystring2]     | 08/06/2020  |
 
 ## Div 2 Problems
 
@@ -95,3 +99,11 @@
 [goodstring2]: ./GoodString/solution.cpp
 [threepairwisemax1]: https://codeforces.com/contest/1385/problem/A
 [threepairwisemax2]: ./ThreePairwiseMax/solution.cpp
+[removesmallest1]: https://codeforces.com/contest/1399/problem/A
+[removesmallest2]: ./RemoveSmallest/solution.cpp
+[giftsfixing1]: https://codeforces.com/contest/1399/problem/B
+[giftsfixing2]: ./GiftsFixing/solution.cpp
+[boatscompetition1]: https://codeforces.com/contest/1399/problem/C
+[boatscompetition2]: ./BoatsCompetition/solution.cpp
+[binarystring1]: https://codeforces.com/contest/1399/problem/D
+[binarystring2]: ./BinaryString/solution.cpp
