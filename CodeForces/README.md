@@ -10,6 +10,7 @@
 | [Bit++][bit++1]                        | [solution.cpp][bit++2]           | 05/15/2020  |
 | [Domino Piling][dominopiling1]         | [solution.cpp][dominopiling2]    | 05/15/2020  |
 | [Common Subsequence][subsequence1]     | [solution.cpp][subsequence2]     | 07/24/2020  |
+| [Team][team1]                          | [solution.cpp][team2]            | 08/12/2020  |
 
 ## 1100
 
@@ -110,3 +111,5 @@
 [binarystring2]: ./BinaryString/solution.cpp
 [wdivision_e1]: https://codeforces.com/contest/1399/problem/E1
 [wdivision_e2]: ./WeightsDivisionEasy/solution.cpp
+[team1]: https://codeforces.com/problemset/problem/231/A
+[team2]: ./Team/solution.cpp
