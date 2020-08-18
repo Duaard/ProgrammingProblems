@@ -37,6 +37,7 @@
 | [Boats Competition][boatscompetition1]          | [solution.cpp][boatscompetition2] | 08/06/2020  |
 | [Binary String To Subsequences][binarystring1]  | [solution.cpp][binarystring2]     | 08/06/2020  |
 | [Weights Division (easy version)][wdivision_e1] | [solution.cpp][wdivision_e2]      | 08/12/2020  |
+| [Weights Division (hard version)][wdivision_h1] | [solution.cpp][wdivision_h2]      | 08/15/2020  |
 
 ## Div 2 Problems
 
@@ -113,3 +114,5 @@
 [wdivision_e2]: ./WeightsDivisionEasy/solution.cpp
 [team1]: https://codeforces.com/problemset/problem/231/A
 [team2]: ./Team/solution.cpp
+[wdivision_h1]: https://codeforces.com/contest/1399/problem/E2
+[wdivision_h2]: ./WeightsDivisionHard/solution.cpp
