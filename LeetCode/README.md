@@ -36,6 +36,7 @@
 | [Coin Change 2][coinchange1]                                 | [solution.cpp][coinchange2]        | 07/19/2020  |
 | [Stone Game][stonegame1]                                     | [solution.cpp][stonegame2]         | 07/21/2020  |
 | [Jump Game][jumpgame1]                                       | [solution.cpp][jumpgame2]          | 07/23/2020  |
+| [Unique Paths][uniquepaths1]                                 | [solution.cpp][uniquepaths2]       | 09/02/2020  |
 
 [singlenumber1]: https://leetcode.com/problems/single-number/
 [singlenumber2]: ./Easy/SingleNumber/solution.py
@@ -99,3 +100,5 @@
 [stonegame2]: ./Medium/StoneGame/solution.cpp
 [jumpgame1]: https://leetcode.com/problems/jump-game/
 [jumpgame2]: ./Medium/JumpGame/solution.cpp
+[uniquepaths1]: https://leetcode.com/problems/unique-paths/
+[uniquepaths2]: ./Medium/UniquePaths/solution.cpp

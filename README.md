@@ -18,7 +18,7 @@ Total: 27
 | Difficulty                | Count |
 | ------------------------- | ----- |
 | [Easy][leetcode_easy]     | 12    |
-| [Medium][leetcode_medium] | 15    |
+| [Medium][leetcode_medium] | 16    |
 
 ## [CodeForces][codeforces]
 
