@@ -24,6 +24,11 @@ Total: 27
 
 Total: 37
 
+## [Google KickStart][kickstart]
+| Round                  | Count |
+| ---------------------- | ----- |
+| [2020][kickstart_2020] | 4     |
+
 [hackerrank]: ./HackerRank
 [hackerrank_easy]: ./HackerRank/Easy
 [hackerrank_medium]: ./HackerRank/Medium
@@ -31,3 +36,5 @@ Total: 37
 [leetcode_easy]: ./LeetCode/Easy
 [leetcode_medium]: ./LeetCode/Medium
 [codeforces]: ./CodeForces
+[kickstart]: ./GoogleKickStart
+[kickstart_2020]: ./GoogleKickStart/2020
