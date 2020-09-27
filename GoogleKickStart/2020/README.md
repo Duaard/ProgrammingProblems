@@ -1,6 +1,13 @@
 # Google KickStart 2020 Problems Solved
 *Note: Problems with * are solved during competition*
 
+## Round B
+| Problem                                     | Solution                             | Date       |
+| ------------------------------------------- | ------------------------------------ | ---------- |
+| [Bike Tour][bike_tour1]                     | [solution.cpp][bike_tour2]           | 09/26/2020 |
+| [Bus Routes][bus_routes1]                   | [solution.cpp][bus_routes2]          | 09/26/2020 |
+| [Robot Path Decoding][robot_path_decoding1] | [solution.cpp][robot_path_decoding2] | 09/26/2020 |
+
 ## Round D
 | Problem                            | Solution                        | Date       |
 | ---------------------------------- | ------------------------------- | ---------- |
@@ -24,3 +31,9 @@
 [high_buildings2]: ./E/HighBuildings/solution.cpp
 [toys1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff47/00000000003bef29
 [toys2]: ./E/Toys/solution.cpp
+[bike_tour1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d82e6
+[bike_tour2]: ./B/BikeTour/solution.cpp
+[bus_routes1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83bf
+[bus_routes2]: ./B/BusRoutes/solution.cpp
+[robot_path_decoding1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83dc
+[robot_path_decoding2]: ./B/RobotPathDecoding/solution.cpp
