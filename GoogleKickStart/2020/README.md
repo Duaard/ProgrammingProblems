@@ -21,6 +21,12 @@
 | [High Buildings][high_buildings1]          | [solution.cpp][high_buildings2]     | 09/21/2020 |
 | [Toys][toys1]                              | [solution.cpp][toys2]               | 09/25/2020 |
 
+## Round F
+| Problem                          | Solution                       | Date       |
+| -------------------------------- | ------------------------------ | ---------- |
+| *[ATM Queue][atm_queue1]         | [solution.cpp][atm_queue2]     | 09/27/2020 |
+| *[Metal Harvest][metal_harvest1] | [solution.cpp][metal_harvest2] | 09/27/2020 |
+
 [record_breaker1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000387171
 [record_breaker2]: ./D/RecordBreaker/solution.cpp
 [alien_piano1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000387174
@@ -37,3 +43,7 @@
 [bus_routes2]: ./B/BusRoutes/solution.cpp
 [robot_path_decoding1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83dc
 [robot_path_decoding2]: ./B/RobotPathDecoding/solution.cpp
+[atm_queue1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff48/00000000003f4ed8#analysis
+[atm_queue2]: ./F/ATMQueue/solution.cpp
+[metal_harvest1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff48/00000000003f4b8b
+[metal_harvest2]: ./F/MetalHarvest/solution.cpp

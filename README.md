@@ -1,6 +1,6 @@
 # My solutions to different programming problems
 
-Total number of problems: 185
+Total number of problems: 187
 
 ## [HackerRank][hackerrank]
 
@@ -27,9 +27,9 @@ Total: 37
 ## [Google KickStart][kickstart]
 | Round                  | Count |
 | ---------------------- | ----- |
-| [2020][kickstart_2020] | 8     |
+| [2020][kickstart_2020] | 10    |
 
-Total: 8
+Total: 10
 
 [hackerrank]: ./HackerRank
 [hackerrank_easy]: ./HackerRank/Easy
