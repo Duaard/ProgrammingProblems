@@ -41,6 +41,8 @@
 | [Yet Another Two Integers Problem][twointegers1] | [solution.cpp][twointegers2]      | 09/04/2020  |
 | [Minimum Product][minprod1]                      | [solution.cpp][minprod2]          | 09/04/2020  |
 | [Yet Another Array Restoration][arrres1]         | [solution.cpp][arrres2]           | 09/04/2020  |
+| [FloorNumber][floor_number1]                     | [solution.cpp][floor_number2]     | 09/28/2020  |
+| [Symmetric Matrix][symmetric_matrix1]            | [solution.cpp][symmetric_matrix2] | 09/28/2020  |
 
 ## Div 2 Problems
 
@@ -125,3 +127,7 @@
 [minprod2]: ./MinProduct/solution.cpp
 [arrres1]: https://codeforces.com/contest/1409/problem/C
 [arrres2]: ./ArrayRestoration/solution.cpp
+[floor_number1]: https://codeforces.com/contest/1426/problem/A
+[floor_number2]: ./FloorNumber/solution.cpp
+[symmetric_matrix1]: https://codeforces.com/contest/1426/problem/B
+[symmetric_matrix2]: ./SymmetricMatrix/solution.cpp

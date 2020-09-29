@@ -22,7 +22,7 @@ Total: 27
 
 ## [CodeForces][codeforces]
 
-Total: 37
+Total: 39
 
 ## [Google KickStart][kickstart]
 | Round                  | Count |
