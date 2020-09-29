@@ -26,6 +26,7 @@
 | -------------------------------- | ------------------------------ | ---------- |
 | *[ATM Queue][atm_queue1]         | [solution.cpp][atm_queue2]     | 09/27/2020 |
 | *[Metal Harvest][metal_harvest1] | [solution.cpp][metal_harvest2] | 09/27/2020 |
+| [Painter's Duel][painters_duel1] | [solution.cpp][painters_duel2] | 09/29/2020 |
 
 [record_breaker1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000387171
 [record_breaker2]: ./D/RecordBreaker/solution.cpp
@@ -43,7 +44,9 @@
 [bus_routes2]: ./B/BusRoutes/solution.cpp
 [robot_path_decoding1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83dc
 [robot_path_decoding2]: ./B/RobotPathDecoding/solution.cpp
-[atm_queue1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff48/00000000003f4ed8#analysis
+[atm_queue1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff48/00000000003f4ed8
 [atm_queue2]: ./F/ATMQueue/solution.cpp
 [metal_harvest1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff48/00000000003f4b8b
 [metal_harvest2]: ./F/MetalHarvest/solution.cpp
+[painters_duel1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff48/00000000003f47fb
+[painters_duel2]: ./F/PaintersDuel/solution.cpp
