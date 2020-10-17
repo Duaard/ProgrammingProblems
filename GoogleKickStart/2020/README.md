@@ -1,6 +1,12 @@
 # Google KickStart 2020 Problems Solved
 *Note: Problems with * are solved during competition*
 
+## Round A
+| Problem                   | Solution                    | Date       |
+| ------------------------- | --------------------------- | ---------- |
+| [Allocation][allocation1] | [solution.cpp][allocation2] | 10/17/2020 |
+| [Plates][plates1]         | [solution.cpp][plates2]     | 10/17/2020 |
+
 ## Round B
 | Problem                                     | Solution                             | Date       |
 | ------------------------------------------- | ------------------------------------ | ---------- |
@@ -50,3 +56,7 @@
 [metal_harvest2]: ./F/MetalHarvest/solution.cpp
 [painters_duel1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff48/00000000003f47fb
 [painters_duel2]: ./F/PaintersDuel/solution.cpp
+[allocation1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f56
+[allocation2]: ./A/Allocation/solution.cpp
+[plates1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d40bb
+[plates2]: ./A/Plates/solution.cpp
