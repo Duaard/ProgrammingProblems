@@ -105,3 +105,5 @@
 [uniquepaths2]: ./Medium/UniquePaths/solution.cpp
 [duplicatefromsortedarr1]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [duplicatefromsortedarr2]: ./Easy/DuplicateSortedArr/solution.cpp
+[sortlist1]: https://leetcode.com/problems/sort-list/
+[sortlist2]: ./Medium/SortList/solution.cpp
