@@ -38,6 +38,8 @@
 | [Stone Game][stonegame1]                                     | [solution.cpp][stonegame2]         | 07/21/2020  |
 | [Jump Game][jumpgame1]                                       | [solution.cpp][jumpgame2]          | 07/23/2020  |
 | [Unique Paths][uniquepaths1]                                 | [solution.cpp][uniquepaths2]       | 09/02/2020  |
+| [Sort List][sortlist1]                                       | [solution.cpp][sortlist2]          | 11/04/2020  |
+| [Insertion Sort List][insertionsortlist1]                    | [solution.cpp][insertionsortlist2] | 11/06/2020  |
 
 [singlenumber1]: https://leetcode.com/problems/single-number/
 [singlenumber2]: ./Easy/SingleNumber/solution.py
@@ -107,3 +109,5 @@
 [duplicatefromsortedarr2]: ./Easy/DuplicateSortedArr/solution.cpp
 [sortlist1]: https://leetcode.com/problems/sort-list/
 [sortlist2]: ./Medium/SortList/solution.cpp
+[insertionsortlist1]: https://leetcode.com/problems/insertion-sort-list/
+[insertionsortlist2]: ./Medium/InsertionSortList/solution.cpp
