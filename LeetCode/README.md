@@ -41,6 +41,7 @@
 | [Sort List][sortlist1]                                       | [solution.cpp][sortlist2]          | 11/04/2020  |
 | [Insertion Sort List][insertionsortlist1]                    | [solution.cpp][insertionsortlist2] | 11/06/2020  |
 | [Merge Intervals][mergeintervals1]                           | [solution.cpp][mergeintervals2]    | 11/07/2020  |
+| [Sort Colors][sortcolors1]                                   | [solution.cpp][sortcolors2]        | 11/08/2020  |
 
 [singlenumber1]: https://leetcode.com/problems/single-number/
 [singlenumber2]: ./Easy/SingleNumber/solution.py
@@ -114,3 +115,5 @@
 [insertionsortlist2]: ./Medium/InsertionSortList/solution.cpp
 [mergeintervals1]: https://leetcode.com/problems/merge-intervals/
 [mergeintervals2]: ./Medium/MergeIntervals/solution.cpp
+[sortcolors1]: https://leetcode.com/problems/sort-colors/
+[sortcolors2]: ./Medium/SortColors/solution.cpp
