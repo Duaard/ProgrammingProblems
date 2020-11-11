@@ -42,6 +42,7 @@
 | [Insertion Sort List][insertionsortlist1]                    | [solution.cpp][insertionsortlist2] | 11/06/2020  |
 | [Merge Intervals][mergeintervals1]                           | [solution.cpp][mergeintervals2]    | 11/07/2020  |
 | [Sort Colors][sortcolors1]                                   | [solution.cpp][sortcolors2]        | 11/08/2020  |
+| [All Paths From Source To Target][sourcetotarget1]           | [solution.cpp][sourcetotarget2]    | 11/11/2020  |
 
 ## Hard
 
@@ -126,3 +127,5 @@
 [sortcolors2]: ./Medium/SortColors/solution.cpp
 [streammedian1]: https://leetcode.com/problems/find-median-from-data-stream/
 [streammedian2]: ./Hard/StreamMedian/solution.cpp
+[sourcetotarget1]: https://leetcode.com/problems/all-paths-from-source-to-target/submissions/
+[sourcetotarget2]: ./Medium/SourceToTarget/solution.cpp
