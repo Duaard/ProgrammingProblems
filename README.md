@@ -1,7 +1,5 @@
 # My solutions to different programming problems
 
-Total number of problems: 190
-
 ## [HackerRank][hackerrank]
 
 Total: 113
@@ -13,12 +11,13 @@ Total: 113
 
 ## [LeetCode][leetcode]
 
-Total: 33
+Total: 34
 
 | Difficulty                | Count |
 | ------------------------- | ----- |
 | [Easy][leetcode_easy]     | 13    |
 | [Medium][leetcode_medium] | 20    |
+| [Hard][leetcode_hard]     | 1     |
 
 ## [CodeForces][codeforces]
 
@@ -37,6 +36,7 @@ Total: 13
 [leetcode]: ./LeetCode
 [leetcode_easy]: ./LeetCode/Easy
 [leetcode_medium]: ./LeetCode/Medium
+[leetcode_hard]: ./LeetCode/Hard
 [codeforces]: ./CodeForces
 [kickstart]: ./GoogleKickStart
 [kickstart_2020]: ./GoogleKickStart/2020

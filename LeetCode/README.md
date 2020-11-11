@@ -43,6 +43,13 @@
 | [Merge Intervals][mergeintervals1]                           | [solution.cpp][mergeintervals2]    | 11/07/2020  |
 | [Sort Colors][sortcolors1]                                   | [solution.cpp][sortcolors2]        | 11/08/2020  |
 
+## Hard
+
+| Problem                                          | Solution                      | Date Solved |
+| ------------------------------------------------ | ----------------------------- | ----------- |
+| [Finding Median from Data Stream][streammedian1] | [solution.cpp][streammedian2] | 11/11/2020  |
+
+
 [singlenumber1]: https://leetcode.com/problems/single-number/
 [singlenumber2]: ./Easy/SingleNumber/solution.py
 [singlenumber3]: ./Easy/SingleNumber/solution.cpp
@@ -117,3 +124,5 @@
 [mergeintervals2]: ./Medium/MergeIntervals/solution.cpp
 [sortcolors1]: https://leetcode.com/problems/sort-colors/
 [sortcolors2]: ./Medium/SortColors/solution.cpp
+[streammedian1]: https://leetcode.com/problems/find-median-from-data-stream/
+[streammedian2]: ./Hard/StreamMedian/solution.cpp
