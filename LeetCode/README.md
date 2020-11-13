@@ -17,6 +17,7 @@
 | [Last Stone Weight][laststoneweight1]                          | [improved.cpp][laststoneweight3]        | 05/23/2020  |
 | [House Robber][robber1]                                        | [solution.cpp][robber2]                 | 07/19/2020  |
 | [Remove Duplicates from Sorted Array][duplicatefromsortedarr1] | [solution.cpp][duplicatefromsortedarr2] | 11/02/2020  |
+| [Range Sum of BST][rangesumbst1]                               | [solution.cpp][rangesumbst2]            | 11/13/2020  |
 
 ## Medium
 
@@ -129,3 +130,5 @@
 [streammedian2]: ./Hard/StreamMedian/solution.cpp
 [sourcetotarget1]: https://leetcode.com/problems/all-paths-from-source-to-target/submissions/
 [sourcetotarget2]: ./Medium/SourceToTarget/solution.cpp
+[rangesumbst1]: https://leetcode.com/problems/range-sum-of-bst/
+[rangesumbst2]: ./Easy/RangeSumOfBST/solution.cpp

@@ -11,11 +11,11 @@ Total: 113
 
 ## [LeetCode][leetcode]
 
-Total: 35
+Total: 36
 
 | Difficulty                | Count |
 | ------------------------- | ----- |
-| [Easy][leetcode_easy]     | 13    |
+| [Easy][leetcode_easy]     | 14    |
 | [Medium][leetcode_medium] | 21    |
 | [Hard][leetcode_hard]     | 1     |
 
