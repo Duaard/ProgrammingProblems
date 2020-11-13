@@ -18,6 +18,7 @@
 | [House Robber][robber1]                                        | [solution.cpp][robber2]                 | 07/19/2020  |
 | [Remove Duplicates from Sorted Array][duplicatefromsortedarr1] | [solution.cpp][duplicatefromsortedarr2] | 11/02/2020  |
 | [Range Sum of BST][rangesumbst1]                               | [solution.cpp][rangesumbst2]            | 11/13/2020  |
+| [Max Depth of N-ary Tree][maxdepthtree1]                       | [solution.cpp][maxdepthtree2]           | 11/13/2020  |
 
 ## Medium
 
@@ -132,3 +133,5 @@
 [sourcetotarget2]: ./Medium/SourceToTarget/solution.cpp
 [rangesumbst1]: https://leetcode.com/problems/range-sum-of-bst/
 [rangesumbst2]: ./Easy/RangeSumOfBST/solution.cpp
+[maxdepthtree1]: https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
+[maxdepthtree2]: ./Easy/MaxDepthOfTree/solution.cpp
