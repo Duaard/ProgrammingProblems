@@ -40,6 +40,10 @@
 | *[Kick_Start][kick_start1]   | [solution.cpp][kick_start1] | 10/18/2020 |
 | *[Maximum Coins][max_coins1] | [solution.cpp][max_coins2]  | 10/18/2020 |
 
+## Round H
+| Problem            | Solution                | Date       |
+| ------------------ | ----------------------- | ---------- |
+| *[Retype][retype1] | [solution.cpp][retype2] | 11/15/2020 |
 
 [record_breaker1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000387171
 [record_breaker2]: ./D/RecordBreaker/solution.cpp
@@ -71,3 +75,5 @@
 [kick_start2]: ./G/Kick_Start/solution.cpp
 [max_coins1]: https://codingcompetitions.withgoogle.com/kickstart/round/00000000001a0069/0000000000414a23
 [max_coins2]: ./G/MaximumCoins/solution.cpp
+[retype1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043adc7
+[retype2]: ./H/Retype/solution.cpp

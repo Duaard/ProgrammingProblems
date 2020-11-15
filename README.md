@@ -25,11 +25,11 @@ Total: 39
 
 ## [Google KickStart][kickstart]
 
-Total: 15
+Total: 16
 
 | Round                  | Count |
 | ---------------------- | ----- |
-| [2020][kickstart_2020] | 15    |
+| [2020][kickstart_2020] | 16    |
 
 
 [hackerrank]: ./HackerRank
