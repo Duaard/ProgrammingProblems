@@ -41,9 +41,10 @@
 | *[Maximum Coins][max_coins1] | [solution.cpp][max_coins2]  | 10/18/2020 |
 
 ## Round H
-| Problem            | Solution                | Date       |
-| ------------------ | ----------------------- | ---------- |
-| *[Retype][retype1] | [solution.cpp][retype2] | 11/15/2020 |
+| Problem                           | Solution                        | Date       |
+| --------------------------------- | ------------------------------- | ---------- |
+| *[Retype][retype1]                | [solution.cpp][retype2]         | 11/15/2020 |
+| [Boring Numbers][boring_numbers1] | [solution.cpp][boring_numbers2] | 11/18/2020 |
 
 [record_breaker1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000387171
 [record_breaker2]: ./D/RecordBreaker/solution.cpp
@@ -77,3 +78,5 @@
 [max_coins2]: ./G/MaximumCoins/solution.cpp
 [retype1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043adc7
 [retype2]: ./H/Retype/solution.cpp
+[boring_numbers1]: https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043b0c6
+[boring_numbers2]: ./H/BoringNumbers/solution.cpp
