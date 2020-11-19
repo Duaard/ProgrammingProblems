@@ -19,6 +19,7 @@
 | [Remove Duplicates from Sorted Array][duplicatefromsortedarr1] | [solution.cpp][duplicatefromsortedarr2] | 11/02/2020  |
 | [Range Sum of BST][rangesumbst1]                               | [solution.cpp][rangesumbst2]            | 11/13/2020  |
 | [Max Depth of N-ary Tree][maxdepthtree1]                       | [solution.cpp][maxdepthtree2]           | 11/13/2020  |
+| [Reverse String][reverse_string1]                              | [solution.js][reverse_string2]          | 11/19/2020  |
 
 ## Medium
 
@@ -135,3 +136,5 @@
 [rangesumbst2]: ./Easy/RangeSumOfBST/solution.cpp
 [maxdepthtree1]: https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
 [maxdepthtree2]: ./Easy/MaxDepthOfTree/solution.cpp
+[reverse_string1]: https://leetcode.com/problems/reverse-string/
+[reverse_string2]: ./Easy/ReverseString/solution.js
