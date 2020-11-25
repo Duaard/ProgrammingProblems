@@ -20,6 +20,7 @@
 | [Range Sum of BST][rangesumbst1]                               | [solution.cpp][rangesumbst2]            | 11/13/2020  |
 | [Max Depth of N-ary Tree][maxdepthtree1]                       | [solution.cpp][maxdepthtree2]           | 11/13/2020  |
 | [Reverse String][reverse_string1]                              | [solution.js][reverse_string2]          | 11/19/2020  |
+| [Reverse Integer][reverse_int1]                                | [solution.cpp][reverse_int2]            | 11/25/2020  |
 
 ## Medium
 
@@ -141,3 +142,5 @@
 [reverse_string2]: ./Easy/ReverseString/solution.js
 [substr_repeating1]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [substr_repeating2]: ./Medium/SubstrRepeat/solution.cpp
+[reverse_int1]: https://leetcode.com/problems/reverse-integer/
+[reverse_int2]:  ./Easy/ReverseInteger/solution.cpp
