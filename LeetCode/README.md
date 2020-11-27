@@ -51,9 +51,10 @@
 
 ## Hard
 
-| Problem                                          | Solution                      | Date Solved |
-| ------------------------------------------------ | ----------------------------- | ----------- |
-| [Finding Median from Data Stream][streammedian1] | [solution.cpp][streammedian2] | 11/11/2020  |
+| Problem                                           | Solution                           | Date Solved |
+| ------------------------------------------------- | ---------------------------------- | ----------- |
+| [Finding Median from Data Stream][streammedian1]  | [solution.cpp][streammedian2]      | 11/11/2020  |
+| [Median of Two Sorted Arrays][median_two_arrays1] | [solution.cpp][median_two_arrays2] | 11/27/2020  |
 
 
 [singlenumber1]: https://leetcode.com/problems/single-number/
@@ -144,3 +145,5 @@
 [substr_repeating2]: ./Medium/SubstrRepeat/solution.cpp
 [reverse_int1]: https://leetcode.com/problems/reverse-integer/
 [reverse_int2]:  ./Easy/ReverseInteger/solution.cpp
+[median_two_arrays1]: https://leetcode.com/problems/median-of-two-sorted-arrays/
+[median_two_arrays2]: ./Hard/MedianTwoArrays/solution.cpp
