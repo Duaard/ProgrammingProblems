@@ -24,30 +24,31 @@
 
 ## Medium
 
-| Problem                                                             | Solution                           | Date Solved |
-| ------------------------------------------------------------------- | ---------------------------------- | ----------- |
-| [Add Two Numbers][addtwonumbers1]                                   | [solution.cpp][addtwonumbers2]     | 05/15/2020  |
-| [Group Anagrams][groupanagrams1]                                    | [improved.cpp][groupanagrams3]     | 05/16/2020  |
-| [Product of Array Except Self][prodarray1]                          | [solution.cpp][prodarray2]         | 06/16/2020  |
-| [Valid Parenthesis String][parenthesisstring1]                      | [solution.cpp][parenthesisstring2] | 06/22/2020  |
-| [Number of Islands][numberofislands1]                               | [solution.cpp][numberofislands2]   | 06/22/2020  |
-| [Minimum Path Sum][minpathsum1]                                     | [solution.cpp][minpathsum2]        | 06/23/2020  |
-| [Search in Rotated Sorted Array][rotatedarr1]                       | [solution.cpp][rotatedarr2]        | 06/27/2020  |
-| [Construct Binary Search Tree from Preorder Traversal][bst1]        | [solution.cpp][bst2]               | 07/02/2020  |
-| [Subarray Sum Equals K][subarray1]                                  | [solution.cpp][subarray2]          | 07/03/2020  |
-| [Continuous Subarray Sum][subarraysum1]                             | [solution.cpp][subarraysum2]       | 07/05/2020  |
-| [Bitwise AND of Numbers Range][bitwiseand1]                         | [solution.cpp][bitwiseand2]        | 07/06/2020  |
-| [LRU Cache][lrucache1]                                              | [solution.cpp][lrucache2]          | 07/07/2020  |
-| [Coin Change 2][coinchange1]                                        | [solution.cpp][coinchange2]        | 07/19/2020  |
-| [Stone Game][stonegame1]                                            | [solution.cpp][stonegame2]         | 07/21/2020  |
-| [Jump Game][jumpgame1]                                              | [solution.cpp][jumpgame2]          | 07/23/2020  |
-| [Unique Paths][uniquepaths1]                                        | [solution.cpp][uniquepaths2]       | 09/02/2020  |
-| [Sort List][sortlist1]                                              | [solution.cpp][sortlist2]          | 11/04/2020  |
-| [Insertion Sort List][insertionsortlist1]                           | [solution.cpp][insertionsortlist2] | 11/06/2020  |
-| [Merge Intervals][mergeintervals1]                                  | [solution.cpp][mergeintervals2]    | 11/07/2020  |
-| [Sort Colors][sortcolors1]                                          | [solution.cpp][sortcolors2]        | 11/08/2020  |
-| [All Paths From Source To Target][sourcetotarget1]                  | [solution.cpp][sourcetotarget2]    | 11/11/2020  |
-| [Longest Substring Without Repeating Characters][substr_repeating1] | [solution.cpp][substr_repeating2]  | 11/21/2020  |
+| Problem                                                             | Solution                             | Date Solved |
+| ------------------------------------------------------------------- | ------------------------------------ | ----------- |
+| [Add Two Numbers][addtwonumbers1]                                   | [solution.cpp][addtwonumbers2]       | 05/15/2020  |
+| [Group Anagrams][groupanagrams1]                                    | [improved.cpp][groupanagrams3]       | 05/16/2020  |
+| [Product of Array Except Self][prodarray1]                          | [solution.cpp][prodarray2]           | 06/16/2020  |
+| [Valid Parenthesis String][parenthesisstring1]                      | [solution.cpp][parenthesisstring2]   | 06/22/2020  |
+| [Number of Islands][numberofislands1]                               | [solution.cpp][numberofislands2]     | 06/22/2020  |
+| [Minimum Path Sum][minpathsum1]                                     | [solution.cpp][minpathsum2]          | 06/23/2020  |
+| [Search in Rotated Sorted Array][rotatedarr1]                       | [solution.cpp][rotatedarr2]          | 06/27/2020  |
+| [Construct Binary Search Tree from Preorder Traversal][bst1]        | [solution.cpp][bst2]                 | 07/02/2020  |
+| [Subarray Sum Equals K][subarray1]                                  | [solution.cpp][subarray2]            | 07/03/2020  |
+| [Continuous Subarray Sum][subarraysum1]                             | [solution.cpp][subarraysum2]         | 07/05/2020  |
+| [Bitwise AND of Numbers Range][bitwiseand1]                         | [solution.cpp][bitwiseand2]          | 07/06/2020  |
+| [LRU Cache][lrucache1]                                              | [solution.cpp][lrucache2]            | 07/07/2020  |
+| [Coin Change 2][coinchange1]                                        | [solution.cpp][coinchange2]          | 07/19/2020  |
+| [Stone Game][stonegame1]                                            | [solution.cpp][stonegame2]           | 07/21/2020  |
+| [Jump Game][jumpgame1]                                              | [solution.cpp][jumpgame2]            | 07/23/2020  |
+| [Unique Paths][uniquepaths1]                                        | [solution.cpp][uniquepaths2]         | 09/02/2020  |
+| [Sort List][sortlist1]                                              | [solution.cpp][sortlist2]            | 11/04/2020  |
+| [Insertion Sort List][insertionsortlist1]                           | [solution.cpp][insertionsortlist2]   | 11/06/2020  |
+| [Merge Intervals][mergeintervals1]                                  | [solution.cpp][mergeintervals2]      | 11/07/2020  |
+| [Sort Colors][sortcolors1]                                          | [solution.cpp][sortcolors2]          | 11/08/2020  |
+| [All Paths From Source To Target][sourcetotarget1]                  | [solution.cpp][sourcetotarget2]      | 11/11/2020  |
+| [Longest Substring Without Repeating Characters][substr_repeating1] | [solution.cpp][substr_repeating2]    | 11/21/2020  |
+| [Longest Palindromic Substring][longest_palindromic1]               | [solution.cpp][longest_palindromic2] | 11/29/2020  |
 
 ## Hard
 
@@ -147,3 +148,5 @@
 [reverse_int2]:  ./Easy/ReverseInteger/solution.cpp
 [median_two_arrays1]: https://leetcode.com/problems/median-of-two-sorted-arrays/
 [median_two_arrays2]: ./Hard/MedianTwoArrays/solution.cpp
+[longest_palindromic1]: https://leetcode.com/problems/longest-palindromic-substring/
+[longest_palindromic2]: ./Medium/LongestPalindromic/solution.cpp
