@@ -11,12 +11,12 @@ Total: 113
 
 ## [LeetCode][leetcode]
 
-Total: 42
+Total: 43
 
 | Difficulty                | Count |
 | ------------------------- | ----- |
 | [Easy][leetcode_easy]     | 17    |
-| [Medium][leetcode_medium] | 23    |
+| [Medium][leetcode_medium] | 24    |
 | [Hard][leetcode_hard]     | 2     |
 
 ## [CodeForces][codeforces]
