@@ -50,6 +50,7 @@
 | [Longest Substring Without Repeating Characters][substr_repeating1] | [solution.cpp][substr_repeating2]    | 11/21/2020  |
 | [Longest Palindromic Substring][longest_palindromic1]               | [solution.cpp][longest_palindromic2] | 11/29/2020  |
 | [ZigZag Conversion][zigzag_conversion1]                             | [solution.cpp][zigzag_conversion2]   | 11/30/2020  |
+| [String to Integer (atoi)][string_to_integer1]                      | [solution.cpp][string_to_integer2]   | 12/02/2020  |
 
 ## Hard
 
@@ -153,3 +154,5 @@
 [longest_palindromic2]: ./Medium/LongestPalindromic/solution.cpp
 [zigzag_conversion1]: https://leetcode.com/problems/zigzag-conversion/
 [zigzag_conversion2]: ./Medium/ZigzagConversion/solution.cpp
+[string_to_integer1]: https://leetcode.com/problems/string-to-integer-atoi/
+[string_to_integer2]: ./Medium/StringToInteger/solution.cpp
