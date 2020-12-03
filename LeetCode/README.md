@@ -21,6 +21,7 @@
 | [Max Depth of N-ary Tree][maxdepthtree1]                       | [solution.cpp][maxdepthtree2]           | 11/13/2020  |
 | [Reverse String][reverse_string1]                              | [solution.js][reverse_string2]          | 11/19/2020  |
 | [Reverse Integer][reverse_int1]                                | [solution.cpp][reverse_int2]            | 11/25/2020  |
+| [Palindrome Number][palindrome_number1]                        | [solution.cpp][palindrome_number2]      | 12/03/2020  |
 
 ## Medium
 
@@ -156,3 +157,5 @@
 [zigzag_conversion2]: ./Medium/ZigzagConversion/solution.cpp
 [string_to_integer1]: https://leetcode.com/problems/string-to-integer-atoi/
 [string_to_integer2]: ./Medium/StringToInteger/solution.cpp
+[palindrome_number2]: ./Easy/PalindromeNumber/solution.cpp
+[palindrome_number1]: https://leetcode.com/problems/palindrome-number/
