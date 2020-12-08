@@ -22,6 +22,7 @@
 | [Reverse String][reverse_string1]                              | [solution.js][reverse_string2]          | 11/19/2020  |
 | [Reverse Integer][reverse_int1]                                | [solution.cpp][reverse_int2]            | 11/25/2020  |
 | [Palindrome Number][palindrome_number1]                        | [solution.cpp][palindrome_number2]      | 12/03/2020  |
+| [Roman to Integer][roman_to_int1]                              | [solution.cpp][roman_to_int2]           | 12/08/2020  |
 
 ## Medium
 
@@ -159,3 +160,5 @@
 [string_to_integer2]: ./Medium/StringToInteger/solution.cpp
 [palindrome_number2]: ./Easy/PalindromeNumber/solution.cpp
 [palindrome_number1]: https://leetcode.com/problems/palindrome-number/
+[roman_to_int2]: ./Easy/RomanToInt/solution.cpp
+[roman_to_int1]: https://leetcode.com/problems/roman-to-integer/
