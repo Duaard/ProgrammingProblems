@@ -23,6 +23,7 @@
 | [Reverse Integer][reverse_int1]                                | [solution.cpp][reverse_int2]            | 11/25/2020  |
 | [Palindrome Number][palindrome_number1]                        | [solution.cpp][palindrome_number2]      | 12/03/2020  |
 | [Roman to Integer][roman_to_int1]                              | [solution.cpp][roman_to_int2]           | 12/08/2020  |
+| [Longest Common Prefix][longest_prefix1]                       | [solution.cpp][longest_prefix2]         | 12/09/2020  |
 
 ## Medium
 
@@ -162,3 +163,5 @@
 [palindrome_number1]: https://leetcode.com/problems/palindrome-number/
 [roman_to_int2]: ./Easy/RomanToInt/solution.cpp
 [roman_to_int1]: https://leetcode.com/problems/roman-to-integer/
+[longest_prefix2]: ./Easy/LongestCommonPrefix/solution.cpp
+[longest_prefix1]: https://leetcode.com/problems/longest-common-prefix/
