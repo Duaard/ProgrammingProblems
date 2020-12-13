@@ -57,6 +57,7 @@
 | [Container With Most Water][most_water1]                            | [solution.cpp][most_water2]          | 12/10/2020  |
 | [Integer to Roman][int_to_roman1]                                   | [solution.cpp][int_to_roman2]        | 12/11/2020  |
 | [3Sum][3_sum1]                                                      | [solution.cpp][3_sum2]               | 12/12/2020  |
+| [3Sum Closest][3_sum_closest1]                                      | [solution.cpp][3_sum_closest2]       | 12/13/2020  |
 
 
 ## Hard
@@ -175,3 +176,5 @@
 [int_to_roman1]: https://leetcode.com/problems/integer-to-roman/
 [3_sum2]: ./Medium/3Sum/solution.cpp
 [3_sum1]: https://leetcode.com/problems/3sum/
+[3_sum_closest2]: ./Medium/3SumClosest/solution.cpp
+[3_sum_closest1]: https://leetcode.com/problems/3sum-closest/
