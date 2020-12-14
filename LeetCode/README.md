@@ -66,6 +66,7 @@
 | ------------------------------------------------- | ---------------------------------- | ----------- |
 | [Finding Median from Data Stream][streammedian1]  | [solution.cpp][streammedian2]      | 11/11/2020  |
 | [Median of Two Sorted Arrays][median_two_arrays1] | [solution.cpp][median_two_arrays2] | 11/27/2020  |
+| [Merge k Sorted Lists][merge_k1]                  | [solution.cpp][merge_k2]           | 12/14/2020  |
 
 
 [singlenumber1]: https://leetcode.com/problems/single-number/
@@ -178,3 +179,5 @@
 [3_sum1]: https://leetcode.com/problems/3sum/
 [3_sum_closest2]: ./Medium/3SumClosest/solution.cpp
 [3_sum_closest1]: https://leetcode.com/problems/3sum-closest/
+[merge_k2]: ./Hard/MergeKSorted/solution.cpp
+[merge_k1]: https://leetcode.com/problems/merge-k-sorted-lists/
