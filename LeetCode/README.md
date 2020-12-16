@@ -25,6 +25,7 @@
 | [Roman to Integer][roman_to_int1]                              | [solution.cpp][roman_to_int2]           | 12/08/2020  |
 | [Longest Common Prefix][longest_prefix1]                       | [solution.cpp][longest_prefix2]         | 12/09/2020  |
 | [Valid Parentheses][valid_parenth1]                            | [solution.cpp][valid_parenth2]          | 12/15/2020  |
+| [Merge Two Sorted Lists][merge_two_lists1]                     | [solution.cpp][merge_two_lists2]        | 12/16/2020  |
 
 ## Medium
 
@@ -184,3 +185,5 @@
 [merge_k1]: https://leetcode.com/problems/merge-k-sorted-lists/
 [valid_parenth2]: ./Easy/ValidParentheses/solution.cpp
 [valid_parenth1]: https://leetcode.com/problems/valid-parentheses/
+[merge_two_lists2]: ./Easy/MergeTwoLists/solution.cpp
+[merge_two_lists1]: https://leetcode.com/problems/merge-two-sorted-list/
