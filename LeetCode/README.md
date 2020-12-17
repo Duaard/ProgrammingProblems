@@ -26,6 +26,7 @@
 | [Longest Common Prefix][longest_prefix1]                       | [solution.cpp][longest_prefix2]         | 12/09/2020  |
 | [Valid Parentheses][valid_parenth1]                            | [solution.cpp][valid_parenth2]          | 12/15/2020  |
 | [Merge Two Sorted Lists][merge_two_lists1]                     | [solution.cpp][merge_two_lists2]        | 12/16/2020  |
+| [Squares of a Sorted Array][squares_sorted1]                   | [solution.cpp][squares_sorted2]         | 12/17/2020  |
 
 ## Medium
 
@@ -187,3 +188,5 @@
 [valid_parenth1]: https://leetcode.com/problems/valid-parentheses/
 [merge_two_lists2]: ./Easy/MergeTwoLists/solution.cpp
 [merge_two_lists1]: https://leetcode.com/problems/merge-two-sorted-list/
+[squares_sorted2]: ./Easy/SquaresOfSortedArray/solution.cpp
+[squares_sorted1]: https://leetcode.com/problems/squares-of-a-sorted-array/
