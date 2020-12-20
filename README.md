@@ -21,11 +21,11 @@ Total: 54
 
 ## [CodeForces][codeforces]
 
-Total: 40
+Total: 41
 
 | Difficulty            | Count |
 | --------------------- | ----- |
-| [800][codeforces_800] | 8     |
+| [800][codeforces_800] | 9     |
 
 ## [Google KickStart][kickstart]
 
