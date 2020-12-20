@@ -4,12 +4,12 @@
 
 | Problem                                | Solution                         | Date Solved |
 | -------------------------------------- | -------------------------------- | ----------- |
-| [Watermelon][watermelon1]              | [solution.cpp][watermelon2]      | 05/13/2020  |
+| [Watermelon][watermelon1]              | [solution.py][watermelon2]       | 05/13/2020  |
 | [Way Too Long Words][waytoolongwords1] | [solution.cpp][waytoolongwords2] | 05/14/2020  |
 | [Next Round][nextround1]               | [solution.cpp][nextround2]       | 05/14/2020  |
 | [Bit++][bit++1]                        | [solution.cpp][bit++2]           | 05/15/2020  |
 | [Domino Piling][dominopiling1]         | [solution.cpp][dominopiling2]    | 05/15/2020  |
-| [Common Subsequence][subsequence1]     | [ssolution.cpp][subsequence2]    | 07/24/2020  |
+| [Common Subsequence][subsequence1]     | [solution.cpp][subsequence2]     | 07/24/2020  |
 | [Team][team1]                          | [solution.cpp][team2]            | 08/12/2020  |
 | [Favorite Sequence][fav_sequence1]     | [solution.cpp][fav_sequence2]    | 12/20/2020  |
 | [Last Year's Substring][last_year1]    | [solution.cpp][last_year2]       | 12/20/2020  |
@@ -60,7 +60,7 @@
 | [Good String][goodstring1]                   | [solution.cpp][goodstring2]     | 08/05/2020  |
 
 [watermelon1]: https://codeforces.com/problemset/problem/4/A
-[watermelon2]: ./800/Watermelon/solution.cpp
+[watermelon2]: ./800/Watermelon/solution.py
 [waytoolongwords1]: https://codeforces.com/problemset/problem/71/A
 [waytoolongwords2]: ./800/WayTooLongWords/solution.cpp
 [nextround1]: https://codeforces.com/problemset/problem/158/A
