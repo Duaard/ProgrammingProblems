@@ -21,7 +21,11 @@ Total: 54
 
 ## [CodeForces][codeforces]
 
-Total: 39
+Total: 40
+
+| Difficulty            | Count |
+| --------------------- | ----- |
+| [800][codeforces_800] | 8     |
 
 ## [Google KickStart][kickstart]
 
@@ -40,5 +44,6 @@ Total: 17
 [leetcode_medium]: ./LeetCode/Medium
 [leetcode_hard]: ./LeetCode/Hard
 [codeforces]: ./CodeForces
+[codeforces_800]: ./CodeForces/800
 [kickstart]: ./GoogleKickStart
 [kickstart_2020]: ./GoogleKickStart/2020

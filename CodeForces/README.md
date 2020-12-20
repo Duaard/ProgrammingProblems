@@ -11,6 +11,8 @@
 | [Domino Piling][dominopiling1]         | [solution.cpp][dominopiling2]    | 05/15/2020  |
 | [Common Subsequence][subsequence1]     | [solution.cpp][subsequence2]     | 07/24/2020  |
 | [Team][team1]                          | [solution.cpp][team2]            | 08/12/2020  |
+| [Favorite Sequence][fav_sequence1]     | [solution.cpp][fav_sequence2]    | 12/20/2020  |
+| [Last Year's Substring][last_year1]    | [solution.cpp][last_year2]       | 12/20/2020  |
 
 ## 1100
 
@@ -58,15 +60,15 @@
 | [Good String][goodstring1]                   | [solution.cpp][goodstring2]     | 08/05/2020  |
 
 [watermelon1]: https://codeforces.com/problemset/problem/4/A
-[watermelon2]: ./Watermelon/solution.cpp
+[watermelon2]: ./800/Watermelon/solution.cpp
 [waytoolongwords1]: https://codeforces.com/problemset/problem/71/A
-[waytoolongwords2]: ./WayTooLongWords/solution.cpp
+[waytoolongwords2]: ./800/WayTooLongWords/solution.cpp
 [nextround1]: https://codeforces.com/problemset/problem/158/A
-[nextround2]: ./NextRound/solution.cpp
+[nextround2]: ./800/NextRound/solution.cpp
 [bit++1]: https://codeforces.com/problemset/problem/282/A
-[bit++2]: ./Bit++/solution.cpp
+[bit++2]: ./800/Bit++/solution.cpp
 [dominopiling1]: https://codeforces.com/problemset/problem/50/A
-[dominopiling2]: ./DominoPiling/solution.cpp
+[dominopiling2]: ./800/DominoPiling/solution.cpp
 [unstablearray1]: https://codeforces.com/contest/1353/problem/A
 [unstablearray2]: ./MostUnstableArray/solution.cpp
 [twoarrays1]: https://codeforces.com/contest/1353/problem/B
@@ -90,7 +92,7 @@
 [spystring1]: https://codeforces.com/contest/1360/problem/F
 [spystring2]: ./SpyString/solution.cpp
 [subsequence1]: https://codeforces.com/contest/1382/problem/A
-[subsequence2]: ./CommonSubsequence/solution.cpp
+[subsequence2]: ./800/CommonSubsequence/solution.cpp
 [sequentialnim1]: https://codeforces.com/contest/1382/problem/B
 [sequentialnim2]: ./SequentialNim/solution.cpp
 [commonprefixes1]: https://codeforces.com/contest/1384/problem/A
@@ -118,7 +120,7 @@
 [wdivision_e1]: https://codeforces.com/contest/1399/problem/E1
 [wdivision_e2]: ./WeightsDivisionEasy/solution.cpp
 [team1]: https://codeforces.com/problemset/problem/231/A
-[team2]: ./Team/solution.cpp
+[team2]: ./800/Team/solution.cpp
 [wdivision_h1]: https://codeforces.com/contest/1399/problem/E2
 [wdivision_h2]: ./WeightsDivisionHard/solution.cpp
 [twointegers1]: https://codeforces.com/contest/1409/problem/A
@@ -131,3 +133,7 @@
 [floor_number2]: ./FloorNumber/solution.cpp
 [symmetric_matrix1]: https://codeforces.com/contest/1426/problem/B
 [symmetric_matrix2]: ./SymmetricMatrix/solution.cpp
+[fav_sequence2]: ./800/FavoriteSequence/solution.cpp
+[fav_sequence1]: https://codeforces.com/contest/1462/problem/A
+[last_year2]: ./800/LastYearsSubstring/solution.cpp
+[last_year1]: https://codeforces.com/contest/1462/problem/B
