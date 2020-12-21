@@ -14,6 +14,11 @@
 | [Favorite Sequence][fav_sequence1]     | [solution.cpp][fav_sequence2]    | 12/20/2020  |
 | [Last Year's Substring][last_year1]    | [solution.cpp][last_year2]       | 12/20/2020  |
 
+# 900
+| Problem                      | Solution                    | Date Solved |
+| ---------------------------- | --------------------------- | ----------- |
+| [Unique Number][unique_num1] | [solution.cpp][unique_num2] | 12/21/2020  |
+
 ## 1100
 
 | Problem                          | Solution                       | Date Solved |
@@ -137,3 +142,5 @@
 [fav_sequence1]: https://codeforces.com/contest/1462/problem/A
 [last_year2]: ./800/LastYearsSubstring/solution.cpp
 [last_year1]: https://codeforces.com/contest/1462/problem/B
+[unique_num2]: ./900/UniqueNumber/solution.cpp
+[unique_num1]: https://codeforces.com/contest/1462/problem/C
