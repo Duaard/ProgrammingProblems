@@ -10,6 +10,11 @@
 | [Bit++][bit++1]                        | [solution.cpp][bit++2]           | 05/15/2020  |
 | [Domino Piling][dominopiling1]         | [solution.cpp][dominopiling2]    | 05/15/2020  |
 | [Most Unstable Array][unstablearray1]  | [solution.cpp][unstablearray2]   | 05/16/2020  |
+| [Two Arrays and Swaps][twoarrays1]     | [solution.cpp][twoarrays2]       | 05/16/2020  |
+| [Board Moves][boardmoves1]             | [solution.cpp][boardmoves2]      | 05/16/2020  |
+| [Minimal Square][minimalsquare1]       | [solution.cpp][minimalsquare2]   | 05/29/2020  |
+| [Honest Coach][honestcoach1]           | [solution.cpp][honestcoach2]     | 05/29/2020  |
+| [Similar Pairs][similarpairs1]         | [solution.cpp][similarpairs2]    | 05/31/2020  |
 | [Common Subsequence][subsequence1]     | [solution.cpp][subsequence2]     | 07/24/2020  |
 | [Team][team1]                          | [solution.cpp][team2]            | 08/12/2020  |
 | [Favorite Sequence][fav_sequence1]     | [solution.cpp][fav_sequence2]    | 12/20/2020  |
@@ -30,11 +35,6 @@
 
 | Problem                                          | Solution                          | Date Solved |
 | ------------------------------------------------ | --------------------------------- | ----------- |
-| [Two Arrays and Swaps][twoarrays1]               | [solution.cpp][twoarrays2]        | 05/16/2020  |
-| [Board Moves][boardmoves1]                       | [solution.cpp][boardmoves2]       | 05/16/2020  |
-| [Minimal Square][minimalsquare1]                 | [solution.cpp][minimalsquare2]    | 05/29/2020  |
-| [Honest Coach][honestcoach1]                     | [solution.cpp][honestcoach2]      | 05/29/2020  |
-| [Similar Pairs][similarpairs1]                   | [solution.cpp][similarpairs2]     | 05/31/2020  |
 | [Buying Shovels][buyingshovels1]                 | [solution.cpp][buyingshovels2]    | 05/31/2020  |
 | [Polygon][polygon1]                              | [solution.cpp][polygon2]          | 05/31/2020  |
 | [Spy-string][spystring1]                         | [solution.cpp][spystring2]        | 06/06/2020  |
@@ -89,7 +89,7 @@
 [honestcoach1]: https://codeforces.com/contest/1360/problem/B
 [honestcoach2]: ./800/HonestCoach/solution.cpp
 [similarpairs1]: https://codeforces.com/contest/1360/problem/C
-[similarpairs2]: ./800/SimilarPairs/solution.cpp
+[similarpairs2]: ./SimilarPairs/solution.cpp
 [buyingshovels1]: https://codeforces.com/contest/1360/problem/D
 [buyingshovels2]: ./BuyingShovels/solution.cpp
 [polygon1]: https://codeforces.com/contest/1360/problem/E
