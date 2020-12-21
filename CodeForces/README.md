@@ -9,6 +9,7 @@
 | [Next Round][nextround1]               | [solution.cpp][nextround2]       | 05/14/2020  |
 | [Bit++][bit++1]                        | [solution.cpp][bit++2]           | 05/15/2020  |
 | [Domino Piling][dominopiling1]         | [solution.cpp][dominopiling2]    | 05/15/2020  |
+| [Most Unstable Array][unstablearray1]  | [solution.cpp][unstablearray2]   | 05/16/2020  |
 | [Common Subsequence][subsequence1]     | [solution.cpp][subsequence2]     | 07/24/2020  |
 | [Team][team1]                          | [solution.cpp][team2]            | 08/12/2020  |
 | [Favorite Sequence][fav_sequence1]     | [solution.cpp][fav_sequence2]    | 12/20/2020  |
@@ -29,7 +30,6 @@
 
 | Problem                                          | Solution                          | Date Solved |
 | ------------------------------------------------ | --------------------------------- | ----------- |
-| [Most Unstable Array][unstablearray1]            | [solution.cpp][unstablearray2]    | 05/16/2020  |
 | [Two Arrays and Swaps][twoarrays1]               | [solution.cpp][twoarrays2]        | 05/16/2020  |
 | [Board Moves][boardmoves1]                       | [solution.cpp][boardmoves2]       | 05/16/2020  |
 | [Minimal Square][minimalsquare1]                 | [solution.cpp][minimalsquare2]    | 05/29/2020  |
@@ -75,9 +75,9 @@
 [dominopiling1]: https://codeforces.com/problemset/problem/50/A
 [dominopiling2]: ./800/DominoPiling/solution.cpp
 [unstablearray1]: https://codeforces.com/contest/1353/problem/A
-[unstablearray2]: ./MostUnstableArray/solution.cpp
+[unstablearray2]: ./800/MostUnstableArray/solution.cpp
 [twoarrays1]: https://codeforces.com/contest/1353/problem/B
-[twoarrays2]: ./TwoArraysAndSwaps/solution.cpp
+[twoarrays2]: ./800/TwoArraysAndSwaps/solution.cpp
 [boardmoves1]: https://codeforces.com/contest/1353/problem/C
 [boardmoves2]: ./BoardMoves/solution.cpp
 [sequencedigits1]: https://codeforces.com/contest/1355/problem/A
@@ -85,11 +85,11 @@
 [youngexplorers1]: https://codeforces.com/contest/1355/problem/B
 [youngexplorers2]: ./YoungExplorers/solution.cpp
 [minimalsquare1]: https://codeforces.com/contest/1360/problem/A
-[minimalsquare2]: ./MinimalSquare/solution.cpp
+[minimalsquare2]: ./800/MinimalSquare/solution.cpp
 [honestcoach1]: https://codeforces.com/contest/1360/problem/B
-[honestcoach2]: ./HonestCoach/solution.cpp
+[honestcoach2]: ./800/HonestCoach/solution.cpp
 [similarpairs1]: https://codeforces.com/contest/1360/problem/C
-[similarpairs2]: ./SimilarPairs/solution.cpp
+[similarpairs2]: ./800/SimilarPairs/solution.cpp
 [buyingshovels1]: https://codeforces.com/contest/1360/problem/D
 [buyingshovels2]: ./BuyingShovels/solution.cpp
 [polygon1]: https://codeforces.com/contest/1360/problem/E
