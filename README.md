@@ -25,7 +25,7 @@ Total: 42
 
 | Difficulty            | Count |
 | --------------------- | ----- |
-| [800][codeforces_800] | 9     |
+| [800][codeforces_800] | 14    |
 | [900][codeforces_900] | 1     |
 
 ## [Google KickStart][kickstart]
